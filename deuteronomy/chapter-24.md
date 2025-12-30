@@ -4,48 +4,48 @@ weight: 24
 
 # Chapter 24
 
-<sup>1</sup> When a man taketh a wife, and marrieth her, then it shall be, if she find no favor in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house. 
+**¹** When a man taketh a wife, and marrieth her, then it shall be, if she find no favor in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house. 
 
-<sup>2</sup> And when she is departed out of his house, she may go and be another man’s wife. 
+**²** And when she is departed out of his house, she may go and be another man’s wife. 
 
-<sup>3</sup> And if the latter husband hate her, and write her a bill of divorcement, and give it in her hand, and send her out of his house; or if the latter husband die, who took her to be his wife; 
+**³** And if the latter husband hate her, and write her a bill of divorcement, and give it in her hand, and send her out of his house; or if the latter husband die, who took her to be his wife; 
 
-<sup>4</sup> her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before Jehovah: and thou shalt not cause the land to sin, which Jehovah thy God giveth thee for an inheritance. 
+**⁴** her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before Jehovah: and thou shalt not cause the land to sin, which Jehovah thy God giveth thee for an inheritance. 
 
-<sup>5</sup> When a man taketh a new wife, he shall not go out in the host, neither shall he be charged with any business: he shall be free at home one year, and shall cheer his wife whom he hath taken. 
+**⁵** When a man taketh a new wife, he shall not go out in the host, neither shall he be charged with any business: he shall be free at home one year, and shall cheer his wife whom he hath taken. 
 
-<sup>6</sup> No man shall take the mill or the upper millstone to pledge; for he taketh a man’s life to pledge. 
+**⁶** No man shall take the mill or the upper millstone to pledge; for he taketh a man’s life to pledge. 
 
-<sup>7</sup> If a man be found stealing any of his brethren of the children of Israel, and he deal with him as a slave, or sell him; then that thief shall die: so shalt thou put away the evil from the midst of thee. 
+**⁷** If a man be found stealing any of his brethren of the children of Israel, and he deal with him as a slave, or sell him; then that thief shall die: so shalt thou put away the evil from the midst of thee. 
 
-<sup>8</sup> Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so ye shall observe to do. 
+**⁸** Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so ye shall observe to do. 
 
-<sup>9</sup> Remember what Jehovah thy God did unto Miriam, by the way as ye came forth out of Egypt. 
+**⁹** Remember what Jehovah thy God did unto Miriam, by the way as ye came forth out of Egypt. 
 
-<sup>10</sup> When thou dost lend thy neighbor any manner of loan, thou shalt not go into his house to fetch his pledge. 
+**¹⁰** When thou dost lend thy neighbor any manner of loan, thou shalt not go into his house to fetch his pledge. 
 
-<sup>11</sup> Thou shalt stand without, and the man to whom thou dost lend shall bring forth the pledge without unto thee. 
+**¹¹** Thou shalt stand without, and the man to whom thou dost lend shall bring forth the pledge without unto thee. 
 
-<sup>12</sup> And if he be a poor man, thou shalt not sleep with his pledge; 
+**¹²** And if he be a poor man, thou shalt not sleep with his pledge; 
 
-<sup>13</sup> thou shalt surely restore to him the pledge when the sun goeth down, that he may sleep in his garment, and bless thee: and it shall be righteousness unto thee before Jehovah thy God. 
+**¹³** thou shalt surely restore to him the pledge when the sun goeth down, that he may sleep in his garment, and bless thee: and it shall be righteousness unto thee before Jehovah thy God. 
 
-<sup>14</sup> Thou shalt not oppress a hired servant that is poor and needy, whether he be of thy brethren, or of thy sojourners that are in thy land within thy gates: 
+**¹⁴** Thou shalt not oppress a hired servant that is poor and needy, whether he be of thy brethren, or of thy sojourners that are in thy land within thy gates: 
 
-<sup>15</sup> in his day thou shalt give him his hire, neither shall the sun go down upon it (for he is poor, and setteth his heart upon it); lest he cry against thee unto Jehovah, and it be sin unto thee. 
+**¹⁵** in his day thou shalt give him his hire, neither shall the sun go down upon it (for he is poor, and setteth his heart upon it); lest he cry against thee unto Jehovah, and it be sin unto thee. 
 
-<sup>16</sup> The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin. 
+**¹⁶** The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin. 
 
-<sup>17</sup> Thou shalt not wrest the justice due to the sojourner, or to the fatherless, nor take the widow’s raiment to pledge; 
+**¹⁷** Thou shalt not wrest the justice due to the sojourner, or to the fatherless, nor take the widow’s raiment to pledge; 
 
-<sup>18</sup> but thou shalt remember that thou wast a bondman in Egypt, and Jehovah thy God redeemed thee thence: therefore I command thee to do this thing. 
+**¹⁸** but thou shalt remember that thou wast a bondman in Egypt, and Jehovah thy God redeemed thee thence: therefore I command thee to do this thing. 
 
-<sup>19</sup> When thou reapest thy harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the sojourner, for the fatherless, and for the widow; that Jehovah thy God may bless thee in all the work of thy hands. 
+**¹⁹** When thou reapest thy harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the sojourner, for the fatherless, and for the widow; that Jehovah thy God may bless thee in all the work of thy hands. 
 
-<sup>20</sup> When thou beatest thine olive-tree, thou shalt not go over the boughs again: it shall be for the sojourner, for the fatherless, and for the widow. 
+**²⁰** When thou beatest thine olive-tree, thou shalt not go over the boughs again: it shall be for the sojourner, for the fatherless, and for the widow. 
 
-<sup>21</sup> When thou gatherest the grapes of thy vineyard, thou shalt not glean it after thee: it shall be for the sojourner, for the fatherless, and for the widow. 
+**²¹** When thou gatherest the grapes of thy vineyard, thou shalt not glean it after thee: it shall be for the sojourner, for the fatherless, and for the widow. 
 
-<sup>22</sup> And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing. 
+**²²** And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing. 
 
 

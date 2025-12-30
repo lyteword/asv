@@ -4,14 +4,14 @@ weight: 70
 
 # Psalm 70
 
-<sup>1</sup> For the Chief Musician. A Psalm of David; to bring to remembrance. Make haste, O God, to deliver me; Make haste to help me, O Jehovah. 
+**¹** For the Chief Musician. A Psalm of David; to bring to remembrance. Make haste, O God, to deliver me; Make haste to help me, O Jehovah. 
 
-<sup>2</sup> Let them be put to shame and confounded That seek after my soul: Let them be turned backward and brought to dishonor That delight in my hurt. 
+**²** Let them be put to shame and confounded That seek after my soul: Let them be turned backward and brought to dishonor That delight in my hurt. 
 
-<sup>3</sup> Let them be turned back by reason of their shame That say, Aha, aha. 
+**³** Let them be turned back by reason of their shame That say, Aha, aha. 
 
-<sup>4</sup> Let all those that seek thee rejoice and be glad in thee; And let such as love thy salvation say continually, Let God be magnified. 
+**⁴** Let all those that seek thee rejoice and be glad in thee; And let such as love thy salvation say continually, Let God be magnified. 
 
-<sup>5</sup> But I am poor and needy; Make haste unto me, O God: Thou art my help and my deliverer; O Jehovah, make no tarrying. 
+**⁵** But I am poor and needy; Make haste unto me, O God: Thou art my help and my deliverer; O Jehovah, make no tarrying. 
 
 

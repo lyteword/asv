@@ -4,56 +4,56 @@ weight: 44
 
 # Psalm 44
 
-<sup>1</sup> For the Chief Musician. A Psalm of the sons of Korah. Maschil. We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old. 
+**¹** For the Chief Musician. A Psalm of the sons of Korah. Maschil. We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old. 
 
-<sup>2</sup> Thou didst drive out the nations with thy hand; But them thou didst plant: Thou didst afflict the peoples; But them thou didst spread abroad. 
+**²** Thou didst drive out the nations with thy hand; But them thou didst plant: Thou didst afflict the peoples; But them thou didst spread abroad. 
 
-<sup>3</sup> For they gat not the land in possession by their own sword, Neither did their own arm save them; But thy right hand, and thine arm, and the light of thy countenance, Because thou wast favorable unto them. 
+**³** For they gat not the land in possession by their own sword, Neither did their own arm save them; But thy right hand, and thine arm, and the light of thy countenance, Because thou wast favorable unto them. 
 
-<sup>4</sup> Thou art my King, O God: Command deliverance for Jacob. 
+**⁴** Thou art my King, O God: Command deliverance for Jacob. 
 
-<sup>5</sup> Through thee will we push down our adversaries: Through thy name will we tread them under that rise up against us. 
+**⁵** Through thee will we push down our adversaries: Through thy name will we tread them under that rise up against us. 
 
-<sup>6</sup> For I will not trust in my bow, Neither shall my sword save me. 
+**⁶** For I will not trust in my bow, Neither shall my sword save me. 
 
-<sup>7</sup> But thou hast saved us from our adversaries, And hast put them to shame that hate us. 
+**⁷** But thou hast saved us from our adversaries, And hast put them to shame that hate us. 
 
-<sup>8</sup> In God have we made our boast all the day long, And we will give thanks unto thy name for ever. Selah 
+**⁸** In God have we made our boast all the day long, And we will give thanks unto thy name for ever. Selah 
 
-<sup>9</sup> But now thou hast cast us off, and brought us to dishonor, And goest not forth with our hosts. 
+**⁹** But now thou hast cast us off, and brought us to dishonor, And goest not forth with our hosts. 
 
-<sup>10</sup> Thou makest us to turn back from the adversary; And they that hate us take spoil for themselves. 
+**¹⁰** Thou makest us to turn back from the adversary; And they that hate us take spoil for themselves. 
 
-<sup>11</sup> Thou hast made us like sheep appointed for food, And hast scattered us among the nations. 
+**¹¹** Thou hast made us like sheep appointed for food, And hast scattered us among the nations. 
 
-<sup>12</sup> Thou sellest thy people for nought, And hast not increased thy wealth by their price. 
+**¹²** Thou sellest thy people for nought, And hast not increased thy wealth by their price. 
 
-<sup>13</sup> Thou makest us a reproach to our neighbors, A scoffing and a derision to them that are round about us. 
+**¹³** Thou makest us a reproach to our neighbors, A scoffing and a derision to them that are round about us. 
 
-<sup>14</sup> Thou makest us a byword among the nations, A shaking of the head among the peoples. 
+**¹⁴** Thou makest us a byword among the nations, A shaking of the head among the peoples. 
 
-<sup>15</sup> All the day long is my dishonor before me, And the shame of my face hath covered me, 
+**¹⁵** All the day long is my dishonor before me, And the shame of my face hath covered me, 
 
-<sup>16</sup> For the voice of him that reproacheth and blasphemeth, By reason of the enemy and the avenger. 
+**¹⁶** For the voice of him that reproacheth and blasphemeth, By reason of the enemy and the avenger. 
 
-<sup>17</sup> All this is come upon us; yet have we not forgotten thee, Neither have we dealt falsely in thy covenant. 
+**¹⁷** All this is come upon us; yet have we not forgotten thee, Neither have we dealt falsely in thy covenant. 
 
-<sup>18</sup> Our heart is not turned back, Neither have our steps declined from thy way, 
+**¹⁸** Our heart is not turned back, Neither have our steps declined from thy way, 
 
-<sup>19</sup> That thou hast sore broken us in the place of jackals, And covered us with the shadow of death. 
+**¹⁹** That thou hast sore broken us in the place of jackals, And covered us with the shadow of death. 
 
-<sup>20</sup> If we have forgotten the name of our God, Or spread forth our hands to a strange god; 
+**²⁰** If we have forgotten the name of our God, Or spread forth our hands to a strange god; 
 
-<sup>21</sup> Will not God search this out? For he knoweth the secrets of the heart. 
+**²¹** Will not God search this out? For he knoweth the secrets of the heart. 
 
-<sup>22</sup> Yea, for thy sake are we killed all the day long; We are accounted as sheep for the slaughter. 
+**²²** Yea, for thy sake are we killed all the day long; We are accounted as sheep for the slaughter. 
 
-<sup>23</sup> Awake, why sleepest thou, O Lord? Arise, cast us not off for ever. 
+**²³** Awake, why sleepest thou, O Lord? Arise, cast us not off for ever. 
 
-<sup>24</sup> Wherefore hidest thou thy face, And forgettest our affliction and our oppression? 
+**²⁴** Wherefore hidest thou thy face, And forgettest our affliction and our oppression? 
 
-<sup>25</sup> For our soul is bowed down to the dust: Our body cleaveth unto the earth. 
+**²⁵** For our soul is bowed down to the dust: Our body cleaveth unto the earth. 
 
-<sup>26</sup> Rise up for our help, And redeem us for thy lovingkindness’ sake. 
+**²⁶** Rise up for our help, And redeem us for thy lovingkindness’ sake. 
 
 

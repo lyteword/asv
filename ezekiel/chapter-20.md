@@ -4,102 +4,102 @@ weight: 20
 
 # Chapter 20
 
-<sup>1</sup> And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to inquire of Jehovah, and sat before me. 
+**¹** And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to inquire of Jehovah, and sat before me. 
 
-<sup>2</sup> And the word of Jehovah came unto me, saying, 
+**²** And the word of Jehovah came unto me, saying, 
 
-<sup>3</sup> Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord Jehovah: Is it to inquire of me that ye are come? As I live, saith the Lord Jehovah, I will not be inquired of by you. 
+**³** Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord Jehovah: Is it to inquire of me that ye are come? As I live, saith the Lord Jehovah, I will not be inquired of by you. 
 
-<sup>4</sup> Wilt thou judge them, son of man, wilt thou judge them? Cause them to know the abominations of their fathers; 
+**⁴** Wilt thou judge them, son of man, wilt thou judge them? Cause them to know the abominations of their fathers; 
 
-<sup>5</sup> and say unto them, Thus saith the Lord Jehovah: In the day when I chose Israel, and sware unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I sware unto them, saying, I am Jehovah your God; 
+**⁵** and say unto them, Thus saith the Lord Jehovah: In the day when I chose Israel, and sware unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I sware unto them, saying, I am Jehovah your God; 
 
-<sup>6</sup> in that day I sware unto them, to bring them forth out of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands. 
+**⁶** in that day I sware unto them, to bring them forth out of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands. 
 
-<sup>7</sup> And I said unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt; I am Jehovah your God. 
+**⁷** And I said unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt; I am Jehovah your God. 
 
-<sup>8</sup> But they rebelled against me, and would not hearken unto me; they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the midst of the land of Egypt. 
+**⁸** But they rebelled against me, and would not hearken unto me; they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the midst of the land of Egypt. 
 
-<sup>9</sup> But I wrought for my name’s sake, that it should not be profaned in the sight of the nations, among which they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt. 
+**⁹** But I wrought for my name’s sake, that it should not be profaned in the sight of the nations, among which they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt. 
 
-<sup>10</sup> So I caused them to go forth out of the land of Egypt, and brought them into the wilderness. 
+**¹⁰** So I caused them to go forth out of the land of Egypt, and brought them into the wilderness. 
 
-<sup>11</sup> And I gave them my statutes, and showed them mine ordinances, which if a man do, he shall live in them. 
+**¹¹** And I gave them my statutes, and showed them mine ordinances, which if a man do, he shall live in them. 
 
-<sup>12</sup> Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am Jehovah that sanctifieth them. 
+**¹²** Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am Jehovah that sanctifieth them. 
 
-<sup>13</sup> But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they rejected mine ordinances, which if a man keep, he shall live in them; and my sabbaths they greatly profaned. Then I said I would pour out my wrath upon them in the wilderness, to consume them. 
+**¹³** But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they rejected mine ordinances, which if a man keep, he shall live in them; and my sabbaths they greatly profaned. Then I said I would pour out my wrath upon them in the wilderness, to consume them. 
 
-<sup>14</sup> But I wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out. 
+**¹⁴** But I wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out. 
 
-<sup>15</sup> Moreover also I sware unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands; 
+**¹⁵** Moreover also I sware unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands; 
 
-<sup>16</sup> because they rejected mine ordinances, and walked not in my statutes, and profaned my sabbaths: for their heart went after their idols. 
+**¹⁶** because they rejected mine ordinances, and walked not in my statutes, and profaned my sabbaths: for their heart went after their idols. 
 
-<sup>17</sup> Nevertheless mine eye spared them, and I destroyed them not, neither did I make a full end of them in the wilderness. 
+**¹⁷** Nevertheless mine eye spared them, and I destroyed them not, neither did I make a full end of them in the wilderness. 
 
-<sup>18</sup> And I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their ordinances, nor defile yourselves with their idols. 
+**¹⁸** And I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their ordinances, nor defile yourselves with their idols. 
 
-<sup>19</sup> I am Jehovah your God: walk in my statutes, and keep mine ordinances, and do them; 
+**¹⁹** I am Jehovah your God: walk in my statutes, and keep mine ordinances, and do them; 
 
-<sup>20</sup> and hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am Jehovah your God. 
+**²⁰** and hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am Jehovah your God. 
 
-<sup>21</sup> But the children rebelled against me; they walked not in my statutes, neither kept mine ordinances to do them, which if a man do, he shall live in them; they profaned my sabbaths. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the wilderness. 
+**²¹** But the children rebelled against me; they walked not in my statutes, neither kept mine ordinances to do them, which if a man do, he shall live in them; they profaned my sabbaths. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the wilderness. 
 
-<sup>22</sup> Nevertheless I withdrew my hand, and wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them forth. 
+**²²** Nevertheless I withdrew my hand, and wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them forth. 
 
-<sup>23</sup> Moreover I sware unto them in the wilderness, that I would scatter them among the nations, and disperse them through the countries; 
+**²³** Moreover I sware unto them in the wilderness, that I would scatter them among the nations, and disperse them through the countries; 
 
-<sup>24</sup> because they had not executed mine ordinances, but had rejected my statutes, and had profaned my sabbaths, and their eyes were after their fathers’ idols. 
+**²⁴** because they had not executed mine ordinances, but had rejected my statutes, and had profaned my sabbaths, and their eyes were after their fathers’ idols. 
 
-<sup>25</sup> Moreover also I gave them statutes that were not good, and ordinances wherein they should not live; 
+**²⁵** Moreover also I gave them statutes that were not good, and ordinances wherein they should not live; 
 
-<sup>26</sup> and I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am Jehovah. 
+**²⁶** and I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am Jehovah. 
 
-<sup>27</sup> Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord Jehovah: In this moreover have your fathers blasphemed me, in that they have committed a trespass against me. 
+**²⁷** Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord Jehovah: In this moreover have your fathers blasphemed me, in that they have committed a trespass against me. 
 
-<sup>28</sup> For when I had brought them into the land, which I sware to give unto them, then they saw every high hill, and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering; there also they made their sweet savor, and they poured out there their drink-offerings. 
+**²⁸** For when I had brought them into the land, which I sware to give unto them, then they saw every high hill, and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering; there also they made their sweet savor, and they poured out there their drink-offerings. 
 
-<sup>29</sup> Then I said unto them, What meaneth the high place whereunto ye go? So the name thereof is called Bamah unto this day. 
+**²⁹** Then I said unto them, What meaneth the high place whereunto ye go? So the name thereof is called Bamah unto this day. 
 
-<sup>30</sup> Wherefore say unto the house of Israel, Thus saith the Lord Jehovah: Do ye pollute yourselves after the manner of your fathers? and play ye the harlot after their abominations? 
+**³⁰** Wherefore say unto the house of Israel, Thus saith the Lord Jehovah: Do ye pollute yourselves after the manner of your fathers? and play ye the harlot after their abominations? 
 
-<sup>31</sup> and when ye offer your gifts, when ye make your sons to pass through the fire, do ye pollute yourselves with all your idols unto this day? and shall I be inquired of by you, O house of Israel? As I live, saith the Lord Jehovah, I will not be inquired of by you; 
+**³¹** and when ye offer your gifts, when ye make your sons to pass through the fire, do ye pollute yourselves with all your idols unto this day? and shall I be inquired of by you, O house of Israel? As I live, saith the Lord Jehovah, I will not be inquired of by you; 
 
-<sup>32</sup> and that which cometh into your mind shall not be at all, in that ye say, We will be as the nations, as the families of the countries, to serve wood and stone. 
+**³²** and that which cometh into your mind shall not be at all, in that ye say, We will be as the nations, as the families of the countries, to serve wood and stone. 
 
-<sup>33</sup> As I live, saith the Lord Jehovah, surely with a mighty hand, and with an outstretched arm, and with wrath poured out, will I be king over you. 
+**³³** As I live, saith the Lord Jehovah, surely with a mighty hand, and with an outstretched arm, and with wrath poured out, will I be king over you. 
 
-<sup>34</sup> And I will bring you out from the peoples, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with an outstretched arm, and with wrath poured out; 
+**³⁴** And I will bring you out from the peoples, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with an outstretched arm, and with wrath poured out; 
 
-<sup>35</sup> and I will bring you into the wilderness of the peoples, and there will I enter into judgment with you face to face. 
+**³⁵** and I will bring you into the wilderness of the peoples, and there will I enter into judgment with you face to face. 
 
-<sup>36</sup> Like as I entered into judgment with your fathers in the wilderness of the land of Egypt, so will I enter into judgment with you, saith the Lord Jehovah. 
+**³⁶** Like as I entered into judgment with your fathers in the wilderness of the land of Egypt, so will I enter into judgment with you, saith the Lord Jehovah. 
 
-<sup>37</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant; 
+**³⁷** And I will cause you to pass under the rod, and I will bring you into the bond of the covenant; 
 
-<sup>38</sup> and I will purge out from among you the rebels, and them that transgress against me; I will bring them forth out of the land where they sojourn, but they shall not enter into the land of Israel: and ye shall know that I am Jehovah. 
+**³⁸** and I will purge out from among you the rebels, and them that transgress against me; I will bring them forth out of the land where they sojourn, but they shall not enter into the land of Israel: and ye shall know that I am Jehovah. 
 
-<sup>39</sup> As for you, O house of Israel, thus saith the Lord Jehovah: Go ye, serve every one his idols, and hereafter also, if ye will not hearken unto me; but my holy name shall ye no more profane with your gifts, and with your idols. 
+**³⁹** As for you, O house of Israel, thus saith the Lord Jehovah: Go ye, serve every one his idols, and hereafter also, if ye will not hearken unto me; but my holy name shall ye no more profane with your gifts, and with your idols. 
 
-<sup>40</sup> For in my holy mountain, in the mountain of the height of Israel, saith the Lord Jehovah, there shall all the house of Israel, all of them, serve me in the land: there will I accept them, and there will I require your offerings, and the first-fruits of your oblations, with all your holy things. 
+**⁴⁰** For in my holy mountain, in the mountain of the height of Israel, saith the Lord Jehovah, there shall all the house of Israel, all of them, serve me in the land: there will I accept them, and there will I require your offerings, and the first-fruits of your oblations, with all your holy things. 
 
-<sup>41</sup> As a sweet savor will I accept you, when I bring you out from the peoples, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you in the sight of the nations. 
+**⁴¹** As a sweet savor will I accept you, when I bring you out from the peoples, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you in the sight of the nations. 
 
-<sup>42</sup> And ye shall know that I am Jehovah, when I shall bring you into the land of Israel, into the country which I sware to give unto your fathers. 
+**⁴²** And ye shall know that I am Jehovah, when I shall bring you into the land of Israel, into the country which I sware to give unto your fathers. 
 
-<sup>43</sup> And there shall ye remember your ways, and all your doings, wherein ye have polluted yourselves; and ye shall loathe yourselves in your own sight for all your evils that ye have committed. 
+**⁴³** And there shall ye remember your ways, and all your doings, wherein ye have polluted yourselves; and ye shall loathe yourselves in your own sight for all your evils that ye have committed. 
 
-<sup>44</sup> And ye shall know that I am Jehovah, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord Jehovah. 
+**⁴⁴** And ye shall know that I am Jehovah, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord Jehovah. 
 
-<sup>45</sup> And the word of Jehovah came unto me, saying, 
+**⁴⁵** And the word of Jehovah came unto me, saying, 
 
-<sup>46</sup> Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the field in the South; 
+**⁴⁶** Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the field in the South; 
 
-<sup>47</sup> and say to the forest of the South, Hear the word of Jehovah: Thus saith the Lord Jehovah, Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burnt thereby. 
+**⁴⁷** and say to the forest of the South, Hear the word of Jehovah: Thus saith the Lord Jehovah, Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burnt thereby. 
 
-<sup>48</sup> And all flesh shall see that I, Jehovah, have kindled it; it shall not be quenched. 
+**⁴⁸** And all flesh shall see that I, Jehovah, have kindled it; it shall not be quenched. 
 
-<sup>49</sup> Then said I, Ah Lord Jehovah! they say of me, Is he not a speaker of parables? 
+**⁴⁹** Then said I, Ah Lord Jehovah! they say of me, Is he not a speaker of parables? 
 
 

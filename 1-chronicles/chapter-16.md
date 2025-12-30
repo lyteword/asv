@@ -4,90 +4,90 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> And they brought in the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt-offerings and peace-offerings before God. 
+**¹** And they brought in the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt-offerings and peace-offerings before God. 
 
-<sup>2</sup> And when David had made an end of offering the burnt-offering and the peace-offerings, he blessed the people in the name of Jehovah. 
+**²** And when David had made an end of offering the burnt-offering and the peace-offerings, he blessed the people in the name of Jehovah. 
 
-<sup>3</sup> And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a portion of flesh, and a cake of raisins. 
+**³** And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a portion of flesh, and a cake of raisins. 
 
-<sup>4</sup> And he appointed certain of the Levites to minister before the ark of Jehovah, and to celebrate and to thank and praise Jehovah, the God of Israel: 
+**⁴** And he appointed certain of the Levites to minister before the ark of Jehovah, and to celebrate and to thank and praise Jehovah, the God of Israel: 
 
-<sup>5</sup> Asaph the chief, and second to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom, and Jeiel, with psalteries and with harps; and Asaph with cymbals, sounding aloud; 
+**⁵** Asaph the chief, and second to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom, and Jeiel, with psalteries and with harps; and Asaph with cymbals, sounding aloud; 
 
-<sup>6</sup> and Benaiah and Jahaziel the priests with trumpets continually, before the ark of the covenant of God. 
+**⁶** and Benaiah and Jahaziel the priests with trumpets continually, before the ark of the covenant of God. 
 
-<sup>7</sup> Then on that day did David first ordain to give thanks unto Jehovah, by the hand of Asaph and his brethren. 
+**⁷** Then on that day did David first ordain to give thanks unto Jehovah, by the hand of Asaph and his brethren. 
 
-<sup>8</sup> O give thanks unto Jehovah, call upon his name; Make known his doings among the peoples. 
+**⁸** O give thanks unto Jehovah, call upon his name; Make known his doings among the peoples. 
 
-<sup>9</sup> Sing unto him, sing praises unto him; Talk ye of all his marvellous works. 
+**⁹** Sing unto him, sing praises unto him; Talk ye of all his marvellous works. 
 
-<sup>10</sup> Glory ye in his holy name; Let the heart of them rejoice that seek Jehovah. 
+**¹⁰** Glory ye in his holy name; Let the heart of them rejoice that seek Jehovah. 
 
-<sup>11</sup> Seek ye Jehovah and his strength; Seek his face evermore. 
+**¹¹** Seek ye Jehovah and his strength; Seek his face evermore. 
 
-<sup>12</sup> Remember his marvellous works that he hath done, His wonders, and the judgments of his mouth, 
+**¹²** Remember his marvellous works that he hath done, His wonders, and the judgments of his mouth, 
 
-<sup>13</sup> O ye seed of Israel his servant, Ye children of Jacob, his chosen ones. 
+**¹³** O ye seed of Israel his servant, Ye children of Jacob, his chosen ones. 
 
-<sup>14</sup> He is Jehovah our God; His judgments are in all the earth. 
+**¹⁴** He is Jehovah our God; His judgments are in all the earth. 
 
-<sup>15</sup> Remember his covenant for ever, The word which he commanded to a thousand generations, 
+**¹⁵** Remember his covenant for ever, The word which he commanded to a thousand generations, 
 
-<sup>16</sup> The covenant which he made with Abraham, And his oath unto Isaac, 
+**¹⁶** The covenant which he made with Abraham, And his oath unto Isaac, 
 
-<sup>17</sup> And confirmed the same unto Jacob for a statute, To Israel for an everlasting covenant, 
+**¹⁷** And confirmed the same unto Jacob for a statute, To Israel for an everlasting covenant, 
 
-<sup>18</sup> Saying, Unto thee will I give the land of Canaan, The lot of your inheritance; 
+**¹⁸** Saying, Unto thee will I give the land of Canaan, The lot of your inheritance; 
 
-<sup>19</sup> When ye were but a few men in number, Yea, very few, and sojourners in it; 
+**¹⁹** When ye were but a few men in number, Yea, very few, and sojourners in it; 
 
-<sup>20</sup> And they went about from nation to nation, And from one kingdom to another people. 
+**²⁰** And they went about from nation to nation, And from one kingdom to another people. 
 
-<sup>21</sup> He suffered no man to do them wrong; Yea, he reproved kings for their sakes, 
+**²¹** He suffered no man to do them wrong; Yea, he reproved kings for their sakes, 
 
-<sup>22</sup> Saying, Touch not mine anointed ones, And do my prophets no harm. 
+**²²** Saying, Touch not mine anointed ones, And do my prophets no harm. 
 
-<sup>23</sup> Sing unto Jehovah, all the earth; Show forth his salvation from day to day. 
+**²³** Sing unto Jehovah, all the earth; Show forth his salvation from day to day. 
 
-<sup>24</sup> Declare his glory among the nations, His marvellous works among all the peoples. 
+**²⁴** Declare his glory among the nations, His marvellous works among all the peoples. 
 
-<sup>25</sup> For great is Jehovah, and greatly to be praised: He also is to be feared above all gods. 
+**²⁵** For great is Jehovah, and greatly to be praised: He also is to be feared above all gods. 
 
-<sup>26</sup> For all the gods of the peoples are idols: But Jehovah made the heavens. 
+**²⁶** For all the gods of the peoples are idols: But Jehovah made the heavens. 
 
-<sup>27</sup> Honor and majesty are before him: Strength and gladness are in his place. 
+**²⁷** Honor and majesty are before him: Strength and gladness are in his place. 
 
-<sup>28</sup> Ascribe unto Jehovah, ye kindreds of the peoples, Ascribe unto Jehovah glory and strength; 
+**²⁸** Ascribe unto Jehovah, ye kindreds of the peoples, Ascribe unto Jehovah glory and strength; 
 
-<sup>29</sup> Ascribe unto Jehovah the glory due unto his name: Bring an offering, and come before him; Worship Jehovah in holy array. 
+**²⁹** Ascribe unto Jehovah the glory due unto his name: Bring an offering, and come before him; Worship Jehovah in holy array. 
 
-<sup>30</sup> Tremble before him, all the earth: The world also is established that it cannot be moved. 
+**³⁰** Tremble before him, all the earth: The world also is established that it cannot be moved. 
 
-<sup>31</sup> Let the heavens be glad, and let the earth rejoice; And let them say among the nations, Jehovah reigneth. 
+**³¹** Let the heavens be glad, and let the earth rejoice; And let them say among the nations, Jehovah reigneth. 
 
-<sup>32</sup> Let the sea roar, and the fulness thereof; Let the field exult, and all that is therein; 
+**³²** Let the sea roar, and the fulness thereof; Let the field exult, and all that is therein; 
 
-<sup>33</sup> Then shall the trees of the wood sing for joy before Jehovah; For he cometh to judge the earth. 
+**³³** Then shall the trees of the wood sing for joy before Jehovah; For he cometh to judge the earth. 
 
-<sup>34</sup> O give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever. 
+**³⁴** O give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever. 
 
-<sup>35</sup> And say ye, Save us, O God of our salvation, And gather us together and deliver us from the nations, To give thanks unto thy holy name, And to triumph in thy praise. 
+**³⁵** And say ye, Save us, O God of our salvation, And gather us together and deliver us from the nations, To give thanks unto thy holy name, And to triumph in thy praise. 
 
-<sup>36</sup> Blessed be Jehovah, the God of Israel, From everlasting even to everlasting. And all the people said, Amen, and praised Jehovah. 
+**³⁶** Blessed be Jehovah, the God of Israel, From everlasting even to everlasting. And all the people said, Amen, and praised Jehovah. 
 
-<sup>37</sup> So he left there, before the ark of the covenant of Jehovah, Asaph and his brethren, to minister before the ark continually, as every day’s work required; 
+**³⁷** So he left there, before the ark of the covenant of Jehovah, Asaph and his brethren, to minister before the ark continually, as every day’s work required; 
 
-<sup>38</sup> and Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be doorkeepers; 
+**³⁸** and Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be doorkeepers; 
 
-<sup>39</sup> and Zadok the priest, and his brethren the priests, before the tabernacle of Jehovah in the high place that was at Gibeon, 
+**³⁹** and Zadok the priest, and his brethren the priests, before the tabernacle of Jehovah in the high place that was at Gibeon, 
 
-<sup>40</sup> to offer burnt-offerings unto Jehovah upon the altar of burnt-offering continually morning and evening, even according to all that is written in the law of Jehovah, which he commanded unto Israel; 
+**⁴⁰** to offer burnt-offerings unto Jehovah upon the altar of burnt-offering continually morning and evening, even according to all that is written in the law of Jehovah, which he commanded unto Israel; 
 
-<sup>41</sup> and with them Heman and Jeduthun, and the rest that were chosen, who were mentioned by name, to give thanks to Jehovah, because his lovingkindness endureth for ever; 
+**⁴¹** and with them Heman and Jeduthun, and the rest that were chosen, who were mentioned by name, to give thanks to Jehovah, because his lovingkindness endureth for ever; 
 
-<sup>42</sup> and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God; and the sons of Jeduthun to be at the gate. 
+**⁴²** and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God; and the sons of Jeduthun to be at the gate. 
 
-<sup>43</sup> And all the people departed every man to his house: and David returned to bless his house. 
+**⁴³** And all the people departed every man to his house: and David returned to bless his house. 
 
 

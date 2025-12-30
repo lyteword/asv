@@ -4,48 +4,48 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> My son, if thou wilt receive my words, And lay up my commandments with thee; 
+**¹** My son, if thou wilt receive my words, And lay up my commandments with thee; 
 
-<sup>2</sup> So as to incline thine ear unto wisdom, And apply thy heart to understanding; 
+**²** So as to incline thine ear unto wisdom, And apply thy heart to understanding; 
 
-<sup>3</sup> Yea, if thou cry after discernment, And lift up thy voice for understanding; 
+**³** Yea, if thou cry after discernment, And lift up thy voice for understanding; 
 
-<sup>4</sup> If thou seek her as silver, And search for her as for hid treasures: 
+**⁴** If thou seek her as silver, And search for her as for hid treasures: 
 
-<sup>5</sup> Then shalt thou understand the fear of Jehovah, And find the knowledge of God. 
+**⁵** Then shalt thou understand the fear of Jehovah, And find the knowledge of God. 
 
-<sup>6</sup> For Jehovah giveth wisdom; Out of his mouth cometh knowledge and understanding: 
+**⁶** For Jehovah giveth wisdom; Out of his mouth cometh knowledge and understanding: 
 
-<sup>7</sup> He layeth up sound wisdom for the upright; He is a shield to them that walk in integrity; 
+**⁷** He layeth up sound wisdom for the upright; He is a shield to them that walk in integrity; 
 
-<sup>8</sup> That he may guard the paths of justice, And preserve the way of his saints. 
+**⁸** That he may guard the paths of justice, And preserve the way of his saints. 
 
-<sup>9</sup> Then shalt thou understand righteousness and justice, And equity, yea, every good path. 
+**⁹** Then shalt thou understand righteousness and justice, And equity, yea, every good path. 
 
-<sup>10</sup> For wisdom shall enter into thy heart, And knowledge shall be pleasant unto thy soul; 
+**¹⁰** For wisdom shall enter into thy heart, And knowledge shall be pleasant unto thy soul; 
 
-<sup>11</sup> Discretion shall watch over thee; Understanding shall keep thee: 
+**¹¹** Discretion shall watch over thee; Understanding shall keep thee: 
 
-<sup>12</sup> To deliver thee from the way of evil, From the men that speak perverse things; 
+**¹²** To deliver thee from the way of evil, From the men that speak perverse things; 
 
-<sup>13</sup> Who forsake the paths of uprightness, To walk in the ways of darkness; 
+**¹³** Who forsake the paths of uprightness, To walk in the ways of darkness; 
 
-<sup>14</sup> Who rejoice to do evil, And delight in the perverseness of evil; 
+**¹⁴** Who rejoice to do evil, And delight in the perverseness of evil; 
 
-<sup>15</sup> Who are crooked in their ways, And wayward in their paths: 
+**¹⁵** Who are crooked in their ways, And wayward in their paths: 
 
-<sup>16</sup> To deliver thee from the strange woman, Even from the foreigner that flattereth with her words; 
+**¹⁶** To deliver thee from the strange woman, Even from the foreigner that flattereth with her words; 
 
-<sup>17</sup> That forsaketh the friend of her youth, And forgetteth the covenant of her God: 
+**¹⁷** That forsaketh the friend of her youth, And forgetteth the covenant of her God: 
 
-<sup>18</sup> For her house inclineth unto death, And her paths unto the dead; 
+**¹⁸** For her house inclineth unto death, And her paths unto the dead; 
 
-<sup>19</sup> None that go unto her return again, Neither do they attain unto the paths of life: 
+**¹⁹** None that go unto her return again, Neither do they attain unto the paths of life: 
 
-<sup>20</sup> That thou mayest walk in the way of good men, And keep the paths of the righteous. 
+**²⁰** That thou mayest walk in the way of good men, And keep the paths of the righteous. 
 
-<sup>21</sup> For the upright shall dwell in the land, And the perfect shall remain in it. 
+**²¹** For the upright shall dwell in the land, And the perfect shall remain in it. 
 
-<sup>22</sup> But the wicked shall be cut off from the land, And the treacherous shall be rooted out of it. 
+**²²** But the wicked shall be cut off from the land, And the treacherous shall be rooted out of it. 
 
 

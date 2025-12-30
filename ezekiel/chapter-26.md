@@ -4,46 +4,46 @@ weight: 26
 
 # Chapter 26
 
-<sup>1</sup> And it came to pass in the eleventh year, in the first day of the month, that the word of Jehovah came unto me, saying, 
+**¹** And it came to pass in the eleventh year, in the first day of the month, that the word of Jehovah came unto me, saying, 
 
-<sup>2</sup> Son of man, because that Tyre hath said against Jerusalem, Aha, she is broken that was the gate of the peoples; she is turned unto me; I shall be replenished, now that she is laid waste: 
+**²** Son of man, because that Tyre hath said against Jerusalem, Aha, she is broken that was the gate of the peoples; she is turned unto me; I shall be replenished, now that she is laid waste: 
 
-<sup>3</sup> therefore thus saith the Lord Jehovah, Behold, I am against thee, O Tyre, and will cause many nations to come up against thee, as the sea causeth its waves to come up. 
+**³** therefore thus saith the Lord Jehovah, Behold, I am against thee, O Tyre, and will cause many nations to come up against thee, as the sea causeth its waves to come up. 
 
-<sup>4</sup> And they shall destroy the walls of Tyre, and break down her towers: I will also scrape her dust from her, and make her a bare rock. 
+**⁴** And they shall destroy the walls of Tyre, and break down her towers: I will also scrape her dust from her, and make her a bare rock. 
 
-<sup>5</sup> She shall be a place for the spreading of nets in the midst of the sea; for I have spoken it, saith the Lord Jehovah; and she shall become a spoil to the nations. 
+**⁵** She shall be a place for the spreading of nets in the midst of the sea; for I have spoken it, saith the Lord Jehovah; and she shall become a spoil to the nations. 
 
-<sup>6</sup> And her daughters that are in the field shall be slain with the sword: and they shall know that I am Jehovah. 
+**⁶** And her daughters that are in the field shall be slain with the sword: and they shall know that I am Jehovah. 
 
-<sup>7</sup> For thus saith the Lord Jehovah: Behold, I will bring upon Tyre Nebuchadrezzar king of Babylon, king of kings, from the north, with horses, and with chariots, and with horsemen, and a company, and much people. 
+**⁷** For thus saith the Lord Jehovah: Behold, I will bring upon Tyre Nebuchadrezzar king of Babylon, king of kings, from the north, with horses, and with chariots, and with horsemen, and a company, and much people. 
 
-<sup>8</sup> He shall slay with the sword thy daughters in the field; and he shall make forts against thee, and cast up a mound against thee, and raise up the buckler against thee. 
+**⁸** He shall slay with the sword thy daughters in the field; and he shall make forts against thee, and cast up a mound against thee, and raise up the buckler against thee. 
 
-<sup>9</sup> And he shall set his battering engines against thy walls, and with his axes he shall break down thy towers. 
+**⁹** And he shall set his battering engines against thy walls, and with his axes he shall break down thy towers. 
 
-<sup>10</sup> By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wagons, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach. 
+**¹⁰** By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wagons, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach. 
 
-<sup>11</sup> With the hoofs of his horses shall he tread down all thy streets; he shall slay thy people with the sword; and the pillars of thy strength shall go down to the ground. 
+**¹¹** With the hoofs of his horses shall he tread down all thy streets; he shall slay thy people with the sword; and the pillars of thy strength shall go down to the ground. 
 
-<sup>12</sup> And they shall make a spoil of thy riches, and make a prey of thy merchandise; and they shall break down thy walls, and destroy thy pleasant houses; and they shall lay thy stones and thy timber and thy dust in the midst of the waters. 
+**¹²** And they shall make a spoil of thy riches, and make a prey of thy merchandise; and they shall break down thy walls, and destroy thy pleasant houses; and they shall lay thy stones and thy timber and thy dust in the midst of the waters. 
 
-<sup>13</sup> And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard. 
+**¹³** And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard. 
 
-<sup>14</sup> And I will make thee a bare rock; thou shalt be a place for the spreading of nets; thou shalt be built no more: for I Jehovah have spoken it, saith the Lord Jehovah. 
+**¹⁴** And I will make thee a bare rock; thou shalt be a place for the spreading of nets; thou shalt be built no more: for I Jehovah have spoken it, saith the Lord Jehovah. 
 
-<sup>15</sup> Thus saith the Lord Jehovah to Tyre: shall not the isles shake at the sound of thy fall, when the wounded groan, when the slaughter is made in the midst of thee? 
+**¹⁵** Thus saith the Lord Jehovah to Tyre: shall not the isles shake at the sound of thy fall, when the wounded groan, when the slaughter is made in the midst of thee? 
 
-<sup>16</sup> Then all the princes of the sea shall come down from their thrones, and lay aside their robes, and strip off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble every moment, and be astonished at thee. 
+**¹⁶** Then all the princes of the sea shall come down from their thrones, and lay aside their robes, and strip off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble every moment, and be astonished at thee. 
 
-<sup>17</sup> And they shall take up a lamentation over thee, and say to thee, How art thou destroyed, that wast inhabited by seafaring men, the renowned city, that was strong in the sea, she and her inhabitants, that caused their terror to be on all that dwelt there! 
+**¹⁷** And they shall take up a lamentation over thee, and say to thee, How art thou destroyed, that wast inhabited by seafaring men, the renowned city, that was strong in the sea, she and her inhabitants, that caused their terror to be on all that dwelt there! 
 
-<sup>18</sup> Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be dismayed at thy departure. 
+**¹⁸** Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be dismayed at thy departure. 
 
-<sup>19</sup> For thus saith the Lord Jehovah: When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and the great waters shall cover thee; 
+**¹⁹** For thus saith the Lord Jehovah: When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and the great waters shall cover thee; 
 
-<sup>20</sup> then will I bring thee down with them that descend into the pit, to the people of old time, and will make thee to dwell in the nether parts of the earth, in the places that are desolate of old, with them that go down to the pit, that thou be not inhabited; and I will set glory in the land of the living. 
+**²⁰** then will I bring thee down with them that descend into the pit, to the people of old time, and will make thee to dwell in the nether parts of the earth, in the places that are desolate of old, with them that go down to the pit, that thou be not inhabited; and I will set glory in the land of the living. 
 
-<sup>21</sup> I will make thee a terror, and thou shalt no more have any being; though thou be sought for, yet shalt thou never be found again, saith the Lord Jehovah. 
+**²¹** I will make thee a terror, and thou shalt no more have any being; though thou be sought for, yet shalt thou never be found again, saith the Lord Jehovah. 
 
 

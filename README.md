@@ -15,20 +15,20 @@ This repository contains a complete **American Standard Version (ASV)** 1901 tra
 ```
 # Psalm 23
 
-<sup>1</sup> A Psalm of David. Jehovah is my shepherd; I shall not want. 
+**¹** A Psalm of David. Jehovah is my shepherd; I shall not want. 
 
-<sup>2</sup> He maketh me to lie down in green pastures; He leadeth me beside still waters.
+**²** He maketh me to lie down in green pastures; He leadeth me beside still waters.
 ```
 
 `john/chapter-1.md`
 ```
 # Chapter 1
 
-<sup>1</sup> In the beginning was the Word, and the Word was with God, and the Word was God. 
+**¹** In the beginning was the Word, and the Word was with God, and the Word was God. 
 
-<sup>2</sup> The same was in the beginning with God. 
+**²** The same was in the beginning with God. 
 
-<sup>3</sup> All things were made through him; and without him was not anything made that hath been made. 
+**³** All things were made through him; and without him was not anything made that hath been made. 
 ```
 
 ## Usage

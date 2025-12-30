@@ -4,50 +4,50 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> And the word of Jehovah came unto me, saying, 
+**¹** And the word of Jehovah came unto me, saying, 
 
-<sup>2</sup> Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own heart, Hear ye the word of Jehovah: 
+**²** Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own heart, Hear ye the word of Jehovah: 
 
-<sup>3</sup> Thus saith the Lord Jehovah, Woe unto the foolish prophets, that follow their own spirit, and have seen nothing! 
+**³** Thus saith the Lord Jehovah, Woe unto the foolish prophets, that follow their own spirit, and have seen nothing! 
 
-<sup>4</sup> O Israel, thy prophets have been like foxes in the waste places. 
+**⁴** O Israel, thy prophets have been like foxes in the waste places. 
 
-<sup>5</sup> Ye have not gone up into the gaps, neither built up the wall for the house of Israel, to stand in the battle in the day of Jehovah. 
+**⁵** Ye have not gone up into the gaps, neither built up the wall for the house of Israel, to stand in the battle in the day of Jehovah. 
 
-<sup>6</sup> They have seen falsehood and lying divination, that say, Jehovah saith; but Jehovah hath not sent them: and they have made men to hope that the word would be confirmed. 
+**⁶** They have seen falsehood and lying divination, that say, Jehovah saith; but Jehovah hath not sent them: and they have made men to hope that the word would be confirmed. 
 
-<sup>7</sup> Have ye not seen a false vision, and have ye not spoken a lying divination, in that ye say, Jehovah saith; albeit I have not spoken? 
+**⁷** Have ye not seen a false vision, and have ye not spoken a lying divination, in that ye say, Jehovah saith; albeit I have not spoken? 
 
-<sup>8</sup> Therefore thus saith the Lord Jehovah: Because ye have spoken falsehood, and seen lies, therefore, behold, I am against you, saith the Lord Jehovah. 
+**⁸** Therefore thus saith the Lord Jehovah: Because ye have spoken falsehood, and seen lies, therefore, behold, I am against you, saith the Lord Jehovah. 
 
-<sup>9</sup> And my hand shall be against the prophets that see false visions, and that divine lies: they shall not be in the council of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord Jehovah. 
+**⁹** And my hand shall be against the prophets that see false visions, and that divine lies: they shall not be in the council of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord Jehovah. 
 
-<sup>10</sup> Because, even because they have seduced my people, saying, Peace; and there is no peace; and when one buildeth up a wall, behold, they daub it with untempered mortar: 
+**¹⁰** Because, even because they have seduced my people, saying, Peace; and there is no peace; and when one buildeth up a wall, behold, they daub it with untempered mortar: 
 
-<sup>11</sup> say unto them that daub it with untempered mortar, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it. 
+**¹¹** say unto them that daub it with untempered mortar, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it. 
 
-<sup>12</sup> Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it? 
+**¹²** Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it? 
 
-<sup>13</sup> Therefore thus saith the Lord Jehovah: I will even rend it with a stormy wind in my wrath; and there shall be an overflowing shower in mine anger, and great hailstones in wrath to consume it. 
+**¹³** Therefore thus saith the Lord Jehovah: I will even rend it with a stormy wind in my wrath; and there shall be an overflowing shower in mine anger, and great hailstones in wrath to consume it. 
 
-<sup>14</sup> So will I break down the wall that ye have daubed with untempered mortar, and bring it down to the ground, so that the foundation thereof shall be uncovered; and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am Jehovah. 
+**¹⁴** So will I break down the wall that ye have daubed with untempered mortar, and bring it down to the ground, so that the foundation thereof shall be uncovered; and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am Jehovah. 
 
-<sup>15</sup> Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered mortar; and I will say unto you, The wall is no more, neither they that daubed it; 
+**¹⁵** Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered mortar; and I will say unto you, The wall is no more, neither they that daubed it; 
 
-<sup>16</sup> to wit, the prophets of Israel that prophesy concerning Jerusalem, and that see visions of peace for her, and there is no peace, saith the Lord Jehovah. 
+**¹⁶** to wit, the prophets of Israel that prophesy concerning Jerusalem, and that see visions of peace for her, and there is no peace, saith the Lord Jehovah. 
 
-<sup>17</sup> And thou, son of man, set thy face against the daughters of thy people, that prophesy out of their own heart; and prophesy thou against them, 
+**¹⁷** And thou, son of man, set thy face against the daughters of thy people, that prophesy out of their own heart; and prophesy thou against them, 
 
-<sup>18</sup> and say, Thus saith the Lord Jehovah: Woe to the women that sew pillows upon all elbows, and make kerchiefs for the head of persons of every stature to hunt souls! Will ye hunt the souls of my people, and save souls alive for yourselves? 
+**¹⁸** and say, Thus saith the Lord Jehovah: Woe to the women that sew pillows upon all elbows, and make kerchiefs for the head of persons of every stature to hunt souls! Will ye hunt the souls of my people, and save souls alive for yourselves? 
 
-<sup>19</sup> And ye have profaned me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hearken unto lies. 
+**¹⁹** And ye have profaned me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hearken unto lies. 
 
-<sup>20</sup> Wherefore thus saith the Lord Jehovah: Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms; and I will let the souls go, even the souls that ye hunt to make them fly. 
+**²⁰** Wherefore thus saith the Lord Jehovah: Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms; and I will let the souls go, even the souls that ye hunt to make them fly. 
 
-<sup>21</sup> Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am Jehovah. 
+**²¹** Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am Jehovah. 
 
-<sup>22</sup> Because with lies ye have grieved the heart of the righteous, whom I have not made sad, and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive; 
+**²²** Because with lies ye have grieved the heart of the righteous, whom I have not made sad, and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive; 
 
-<sup>23</sup> Therefore ye shall no more see false visions, nor divine divinations: and I will deliver my people out of your hand; and ye shall know that I am Jehovah. 
+**²³** Therefore ye shall no more see false visions, nor divine divinations: and I will deliver my people out of your hand; and ye shall know that I am Jehovah. 
 
 
