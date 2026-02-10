@@ -1,8 +1,11 @@
 ---
+title: "Psalm 125 ASV | Read the Bible Online"
+linkTitle: "125"
+description: "Read Psalm 125 Online | A Song of Ascents. They that trust in Jehovah Are as mount Zion, which cannot be moved, but abideth for ever..."
 weight: 125
 ---
 
-# Psalm 125
+# Psalm 125 
 
 **¹** A Song of Ascents. They that trust in Jehovah Are as mount Zion, which cannot be moved, but abideth for ever. 
 

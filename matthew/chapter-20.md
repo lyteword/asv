@@ -1,8 +1,11 @@
 ---
+title: "Matthew 20 ASV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Matthew 20 Online | For the kingdom of heaven is like unto a man that was a householder, who went out early in the morning to hire laborers into his vineyard..."
 weight: 20
 ---
 
-# Chapter 20
+# Matthew 20 
 
 **¹** For the kingdom of heaven is like unto a man that was a householder, who went out early in the morning to hire laborers into his vineyard. 
 

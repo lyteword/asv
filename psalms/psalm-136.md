@@ -1,8 +1,11 @@
 ---
+title: "Psalm 136 ASV | Read the Bible Online"
+linkTitle: "136"
+description: "Read Psalm 136 Online | Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever..."
 weight: 136
 ---
 
-# Psalm 136
+# Psalm 136 
 
 **¹** Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever. 
 

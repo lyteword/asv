@@ -1,8 +1,11 @@
 ---
+title: "Joshua 1 ASV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Joshua 1 Online | Now it came to pass after the death of Moses the servant of Jehovah, that Jehovah spake unto Joshua the son of Nun, Moses’ minister, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Joshua 1 
 
 **¹** Now it came to pass after the death of Moses the servant of Jehovah, that Jehovah spake unto Joshua the son of Nun, Moses’ minister, saying, 
 

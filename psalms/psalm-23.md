@@ -1,8 +1,11 @@
 ---
+title: "Psalm 23 ASV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Psalm 23 Online | A Psalm of David. Jehovah is my shepherd; I shall not want..."
 weight: 23
 ---
 
-# Psalm 23
+# Psalm 23 
 
 **¹** A Psalm of David. Jehovah is my shepherd; I shall not want. 
 

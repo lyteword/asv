@@ -1,8 +1,11 @@
 ---
+title: "Job 31 ASV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Job 31 Online | I made a covenant with mine eyes; How then should I look upon a virgin..."
 weight: 31
 ---
 
-# Chapter 31
+# Job 31 
 
 **¹** I made a covenant with mine eyes; How then should I look upon a virgin? 
 

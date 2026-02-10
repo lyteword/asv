@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 11 ASV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Leviticus 11 Online | And Jehovah spake unto Moses and to Aaron, saying unto them..."
 weight: 11
 ---
 
-# Chapter 11
+# Leviticus 11 
 
 **¹** And Jehovah spake unto Moses and to Aaron, saying unto them, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 99 ASV | Read the Bible Online"
+linkTitle: "99"
+description: "Read Psalm 99 Online | Jehovah reigneth; let the peoples tremble: He sitteth above the cherubim; let the earth be moved..."
 weight: 99
 ---
 
-# Psalm 99
+# Psalm 99 
 
 **¹** Jehovah reigneth; let the peoples tremble: He sitteth above the cherubim; let the earth be moved. 
 

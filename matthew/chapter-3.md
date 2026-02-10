@@ -1,8 +1,11 @@
 ---
+title: "Matthew 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Matthew 3 Online | And in those days cometh John the Baptist, preaching in the wilderness of Judæa, saying..."
 weight: 3
 ---
 
-# Chapter 3
+# Matthew 3 
 
 **¹** And in those days cometh John the Baptist, preaching in the wilderness of Judæa, saying, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 54 ASV | Read the Bible Online"
+linkTitle: "54"
+description: "Read Psalm 54 Online | For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, And judge me in thy might..."
 weight: 54
 ---
 
-# Psalm 54
+# Psalm 54 
 
 **¹** For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, And judge me in thy might. 
 

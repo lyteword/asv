@@ -1,8 +1,11 @@
 ---
+title: "Psalm 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Psalm 3 Online | A Psalm of David, when he fled from Absalom his son. Jehovah, how are mine adversaries increased! Many are they that rise up against me..."
 weight: 3
 ---
 
-# Psalm 3
+# Psalm 3 
 
 **¹** A Psalm of David, when he fled from Absalom his son. Jehovah, how are mine adversaries increased! Many are they that rise up against me. 
 

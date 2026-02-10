@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 9 ASV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Deuteronomy 9 Online | Hear, O Israel: thou art to pass over the Jordan this day, to go in to dispossess nations greater and mightier than thyself, cities great and fortified up to heaven..."
 weight: 9
 ---
 
-# Chapter 9
+# Deuteronomy 9 
 
 **¹** Hear, O Israel: thou art to pass over the Jordan this day, to go in to dispossess nations greater and mightier than thyself, cities great and fortified up to heaven, 
 

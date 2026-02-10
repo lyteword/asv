@@ -1,8 +1,11 @@
 ---
+title: "Psalm 47 ASV | Read the Bible Online"
+linkTitle: "47"
+description: "Read Psalm 47 Online | For the Chief Musician. A Psalm of the sons of Korah. Oh clap your hands, all ye peoples; Shout unto God with the voice of triumph..."
 weight: 47
 ---
 
-# Psalm 47
+# Psalm 47 
 
 **¹** For the Chief Musician. A Psalm of the sons of Korah. Oh clap your hands, all ye peoples; Shout unto God with the voice of triumph. 
 

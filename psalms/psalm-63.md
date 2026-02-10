@@ -1,8 +1,11 @@
 ---
+title: "Psalm 63 ASV | Read the Bible Online"
+linkTitle: "63"
+description: "Read Psalm 63 Online | A Psalm of David, when he was in the wilderness of Judah. O God, thou art my God; earnestly will I seek thee: My soul thirsteth for thee, my flesh longeth for thee, In a dry and weary land, where no water is..."
 weight: 63
 ---
 
-# Psalm 63
+# Psalm 63 
 
 **¹** A Psalm of David, when he was in the wilderness of Judah. O God, thou art my God; earnestly will I seek thee: My soul thirsteth for thee, my flesh longeth for thee, In a dry and weary land, where no water is. 
 

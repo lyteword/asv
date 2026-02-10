@@ -1,8 +1,11 @@
 ---
+title: "James 5 ASV | Read the Bible Online"
+linkTitle: "5"
+description: "Read James 5 Online | Come now, ye rich, weep and howl for your miseries that are coming upon you..."
 weight: 5
 ---
 
-# Chapter 5
+# James 5 
 
 **¹** Come now, ye rich, weep and howl for your miseries that are coming upon you. 
 

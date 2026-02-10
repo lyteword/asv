@@ -1,8 +1,11 @@
 ---
+title: "Galatians 6 ASV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Galatians 6 Online | Brethren, even if a man be overtaken in any trespass, ye who are spiritual, restore such a one in a spirit of gentleness; looking to thyself, lest thou also be tempted..."
 weight: 6
 ---
 
-# Chapter 6
+# Galatians 6 
 
 **¹** Brethren, even if a man be overtaken in any trespass, ye who are spiritual, restore such a one in a spirit of gentleness; looking to thyself, lest thou also be tempted. 
 

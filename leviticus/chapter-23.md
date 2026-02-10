@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 ASV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Leviticus 23 Online | And Jehovah spake unto Moses, saying..."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

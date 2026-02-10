@@ -1,8 +1,11 @@
 ---
+title: "Numbers 1 ASV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Numbers 1 Online | And Jehovah spake unto Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Numbers 1 
 
 **¹** And Jehovah spake unto Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying, 
 

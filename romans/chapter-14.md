@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 ASV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Romans 14 Online | But him that is weak in faith receive ye, yet not for decision of scruples..."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 **¹** But him that is weak in faith receive ye, yet not for decision of scruples. 
 

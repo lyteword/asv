@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Deuteronomy 4 Online | And now, O Israel, hearken unto the statutes and unto the ordinances, which I teach you, to do them; that ye may live, and go in and possess the land which Jehovah, the God of your fathers, giveth you..."
 weight: 4
 ---
 
-# Chapter 4
+# Deuteronomy 4 
 
 **¹** And now, O Israel, hearken unto the statutes and unto the ordinances, which I teach you, to do them; that ye may live, and go in and possess the land which Jehovah, the God of your fathers, giveth you. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 19 ASV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Matthew 19 Online | And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judæa beyond the Jordan..."
 weight: 19
 ---
 
-# Chapter 19
+# Matthew 19 
 
 **¹** And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judæa beyond the Jordan; 
 

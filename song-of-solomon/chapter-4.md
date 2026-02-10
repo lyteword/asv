@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Song Of Solomon 4 Online | Behold, thou art fair, my love; behold, thou art fair; Thine eyes are as doves behind thy veil. Thy hair is as a flock of goats, That lie along the side of mount Gilead..."
 weight: 4
 ---
 
-# Chapter 4
+# Song Of Solomon 4 
 
 **¹** Behold, thou art fair, my love; behold, thou art fair; Thine eyes are as doves behind thy veil. Thy hair is as a flock of goats, That lie along the side of mount Gilead. 
 

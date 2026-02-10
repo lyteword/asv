@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 18 ASV | Read the Bible Online"
+linkTitle: "18"
+description: "Read 1 Chronicles 18 Online | And after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and its towns out of the hand of the Philistines..."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Chronicles 18 
 
 **¹** And after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and its towns out of the hand of the Philistines. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 10 ASV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ecclesiastes 10 Online | Dead flies cause the oil of the perfumer to send forth an evil odor; so doth a little folly outweigh wisdom and honor..."
 weight: 10
 ---
 
-# Chapter 10
+# Ecclesiastes 10 
 
 **¹** Dead flies cause the oil of the perfumer to send forth an evil odor; so doth a little folly outweigh wisdom and honor. 
 

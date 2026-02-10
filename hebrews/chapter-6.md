@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 ASV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Hebrews 6 Online | Wherefore leaving the doctrine of the first principles of Christ, let us press on unto perfection; not laying again a foundation of repentance from dead works, and of faith toward God..."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 **¹** Wherefore leaving the doctrine of the first principles of Christ, let us press on unto perfection; not laying again a foundation of repentance from dead works, and of faith toward God, 
 

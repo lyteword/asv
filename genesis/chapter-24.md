@@ -1,8 +1,11 @@
 ---
+title: "Genesis 24 ASV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Genesis 24 Online | And Abraham was old, and well stricken in age: and Jehovah had blessed Abraham in all things..."
 weight: 24
 ---
 
-# Chapter 24
+# Genesis 24 
 
 **¹** And Abraham was old, and well stricken in age: and Jehovah had blessed Abraham in all things. 
 

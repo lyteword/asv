@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 ASV | Read the Bible Online"
+linkTitle: "66"
+description: "Read Isaiah 66 Online | Thus saith Jehovah, Heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest..."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 **¹** Thus saith Jehovah, Heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest? 
 

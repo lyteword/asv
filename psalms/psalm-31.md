@@ -1,8 +1,11 @@
 ---
+title: "Psalm 31 ASV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Psalm 31 Online | For the Chief Musician. A Psalm of David. In thee, O Jehovah, do I take refuge; Let me never be put to shame: Deliver me in thy righteousness..."
 weight: 31
 ---
 
-# Psalm 31
+# Psalm 31 
 
 **¹** For the Chief Musician. A Psalm of David. In thee, O Jehovah, do I take refuge; Let me never be put to shame: Deliver me in thy righteousness. 
 

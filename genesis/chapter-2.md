@@ -1,8 +1,11 @@
 ---
+title: "Genesis 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Genesis 2 Online | And the heavens and the earth were finished, and all the host of them..."
 weight: 2
 ---
 
-# Chapter 2
+# Genesis 2 
 
 **¹** And the heavens and the earth were finished, and all the host of them. 
 

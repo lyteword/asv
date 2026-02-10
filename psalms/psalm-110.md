@@ -1,8 +1,11 @@
 ---
+title: "Psalm 110 ASV | Read the Bible Online"
+linkTitle: "110"
+description: "Read Psalm 110 Online | A Psalm of David. Jehovah saith unto my Lord, Sit thou at my right hand, Until I make thine enemies thy footstool..."
 weight: 110
 ---
 
-# Psalm 110
+# Psalm 110 
 
 **¹** A Psalm of David. Jehovah saith unto my Lord, Sit thou at my right hand, Until I make thine enemies thy footstool. 
 

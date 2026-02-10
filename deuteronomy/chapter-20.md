@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 20 ASV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Deuteronomy 20 Online | When thou goest forth to battle against thine enemies, and seest horses, and chariots, and a people more than thou, thou shalt not be afraid of them; for Jehovah thy God is with thee, who brought thee up out of the land of Egypt..."
 weight: 20
 ---
 
-# Chapter 20
+# Deuteronomy 20 
 
 **¹** When thou goest forth to battle against thine enemies, and seest horses, and chariots, and a people more than thou, thou shalt not be afraid of them; for Jehovah thy God is with thee, who brought thee up out of the land of Egypt. 
 

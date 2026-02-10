@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Proverbs 4 Online | Hear, my sons, the instruction of a father, And attend to know understanding..."
 weight: 4
 ---
 
-# Chapter 4
+# Proverbs 4 
 
 **¹** Hear, my sons, the instruction of a father, And attend to know understanding: 
 

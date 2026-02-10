@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 27 ASV | Read the Bible Online"
+linkTitle: "27"
+description: "Read Isaiah 27 Online | In that day Jehovah with his hard and great and strong sword will punish leviathan the swift serpent, and leviathan the crooked serpent; and he will slay the monster that is in the sea..."
 weight: 27
 ---
 
-# Chapter 27
+# Isaiah 27 
 
 **¹** In that day Jehovah with his hard and great and strong sword will punish leviathan the swift serpent, and leviathan the crooked serpent; and he will slay the monster that is in the sea. 
 

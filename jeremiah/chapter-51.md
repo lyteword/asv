@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 51 ASV | Read the Bible Online"
+linkTitle: "51"
+description: "Read Jeremiah 51 Online | Thus saith Jehovah: Behold, I will raise up against Babylon, and against them that dwell in Leb-kamai, a destroying wind..."
 weight: 51
 ---
 
-# Chapter 51
+# Jeremiah 51 
 
 **¹** Thus saith Jehovah: Behold, I will raise up against Babylon, and against them that dwell in Leb-kamai, a destroying wind. 
 

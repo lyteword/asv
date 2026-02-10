@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 38 ASV | Read the Bible Online"
+linkTitle: "38"
+description: "Read Ezekiel 38 Online | And the word of Jehovah came unto me, saying..."
 weight: 38
 ---
 
-# Chapter 38
+# Ezekiel 38 
 
 **¹** And the word of Jehovah came unto me, saying, 
 

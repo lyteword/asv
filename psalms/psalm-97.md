@@ -1,8 +1,11 @@
 ---
+title: "Psalm 97 ASV | Read the Bible Online"
+linkTitle: "97"
+description: "Read Psalm 97 Online | Jehovah reigneth; let the earth rejoice; Let the multitude of isles be glad..."
 weight: 97
 ---
 
-# Psalm 97
+# Psalm 97 
 
 **¹** Jehovah reigneth; let the earth rejoice; Let the multitude of isles be glad. 
 

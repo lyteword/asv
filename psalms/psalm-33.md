@@ -1,8 +1,11 @@
 ---
+title: "Psalm 33 ASV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Psalm 33 Online | Rejoice in Jehovah, O ye righteous: Praise is comely for the upright..."
 weight: 33
 ---
 
-# Psalm 33
+# Psalm 33 
 
 **¹** Rejoice in Jehovah, O ye righteous: Praise is comely for the upright. 
 

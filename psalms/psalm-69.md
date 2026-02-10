@@ -1,8 +1,11 @@
 ---
+title: "Psalm 69 ASV | Read the Bible Online"
+linkTitle: "69"
+description: "Read Psalm 69 Online | For the Chief Musician; set to Shoshannim. A Psalm of David. Save me, O God; For the waters are come in unto my soul..."
 weight: 69
 ---
 
-# Psalm 69
+# Psalm 69 
 
 **¹** For the Chief Musician; set to Shoshannim. A Psalm of David. Save me, O God; For the waters are come in unto my soul. 
 

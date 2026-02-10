@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 30 ASV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Isaiah 30 Online | Woe to the rebellious children, saith Jehovah, that take counsel, but not of me; and that make a league, but not of my Spirit, that they may add sin to sin..."
 weight: 30
 ---
 
-# Chapter 30
+# Isaiah 30 
 
 **¹** Woe to the rebellious children, saith Jehovah, that take counsel, but not of me; and that make a league, but not of my Spirit, that they may add sin to sin, 
 

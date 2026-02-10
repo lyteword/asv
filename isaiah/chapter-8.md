@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 8 ASV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Isaiah 8 Online | And Jehovah said unto me, Take thee a great tablet, and write upon it with the pen of a man, For Maher-shalal-hash-baz..."
 weight: 8
 ---
 
-# Chapter 8
+# Isaiah 8 
 
 **¹** And Jehovah said unto me, Take thee a great tablet, and write upon it with the pen of a man, For Maher-shalal-hash-baz; 
 

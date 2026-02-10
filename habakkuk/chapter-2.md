@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Habakkuk 2 Online | I will stand upon my watch, and set me upon the tower, and will look forth to see what he will speak with me, and what I shall answer concerning my complaint..."
 weight: 2
 ---
 
-# Chapter 2
+# Habakkuk 2 
 
 **¹** I will stand upon my watch, and set me upon the tower, and will look forth to see what he will speak with me, and what I shall answer concerning my complaint. 
 

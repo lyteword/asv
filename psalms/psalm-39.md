@@ -1,8 +1,11 @@
 ---
+title: "Psalm 39 ASV | Read the Bible Online"
+linkTitle: "39"
+description: "Read Psalm 39 Online | For the Chief Musician, for Jeduthun. A Psalm of David. I said, I will take heed to my ways, That I sin not with my tongue: I will keep my mouth with a bridle, While the wicked is before me..."
 weight: 39
 ---
 
-# Psalm 39
+# Psalm 39 
 
 **¹** For the Chief Musician, for Jeduthun. A Psalm of David. I said, I will take heed to my ways, That I sin not with my tongue: I will keep my mouth with a bridle, While the wicked is before me. 
 

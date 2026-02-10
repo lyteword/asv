@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 9 ASV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Zechariah 9 Online | The burden of the word of Jehovah upon the land of Hadrach, and Damascus shall be its resting-place (for the eye of man and of all the tribes of Israel is toward Jehovah)..."
 weight: 9
 ---
 
-# Chapter 9
+# Zechariah 9 
 
 **¹** The burden of the word of Jehovah upon the land of Hadrach, and Damascus shall be its resting-place (for the eye of man and of all the tribes of Israel is toward Jehovah); 
 

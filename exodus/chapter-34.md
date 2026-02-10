@@ -1,8 +1,11 @@
 ---
+title: "Exodus 34 ASV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Exodus 34 Online | And Jehovah said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon the tables the words that were on the first tables, which thou brakest..."
 weight: 34
 ---
 
-# Chapter 34
+# Exodus 34 
 
 **¹** And Jehovah said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon the tables the words that were on the first tables, which thou brakest. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 5 ASV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Job 5 Online | Call now; is there any that will answer thee? And to which of the holy ones wilt thou turn..."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 **¹** Call now; is there any that will answer thee? And to which of the holy ones wilt thou turn? 
 

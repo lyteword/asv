@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Nehemiah 4 Online | But it came to pass that, when Sanballat heard that we were building the wall, he was wroth, and took great indignation, and mocked the Jews..."
 weight: 4
 ---
 
-# Chapter 4
+# Nehemiah 4 
 
 **¹** But it came to pass that, when Sanballat heard that we were building the wall, he was wroth, and took great indignation, and mocked the Jews. 
 

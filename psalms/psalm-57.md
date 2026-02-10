@@ -1,8 +1,11 @@
 ---
+title: "Psalm 57 ASV | Read the Bible Online"
+linkTitle: "57"
+description: "Read Psalm 57 Online | For the Chief Musician; set to Al-tashheth. A Psalm of David. Michtam; when he fled from Saul, in the cave. Be merciful unto me, O God, be merciful unto me; For my soul taketh refuge in thee: Yea, in the shadow of thy wings will I take refuge, Until these calamities be overpast..."
 weight: 57
 ---
 
-# Psalm 57
+# Psalm 57 
 
 **¹** For the Chief Musician; set to Al-tashheth. A Psalm of David. Michtam; when he fled from Saul, in the cave. Be merciful unto me, O God, be merciful unto me; For my soul taketh refuge in thee: Yea, in the shadow of thy wings will I take refuge, Until these calamities be overpast. 
 

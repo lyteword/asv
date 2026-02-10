@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 23 ASV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Ezekiel 23 Online | The word of Jehovah came again unto me, saying..."
 weight: 23
 ---
 
-# Chapter 23
+# Ezekiel 23 
 
 **¹** The word of Jehovah came again unto me, saying, 
 

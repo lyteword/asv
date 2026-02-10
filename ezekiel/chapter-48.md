@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 48 ASV | Read the Bible Online"
+linkTitle: "48"
+description: "Read Ezekiel 48 Online | Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar-enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion..."
 weight: 48
 ---
 
-# Chapter 48
+# Ezekiel 48 
 
 **¹** Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar-enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion. 
 

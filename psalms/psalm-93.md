@@ -1,8 +1,11 @@
 ---
+title: "Psalm 93 ASV | Read the Bible Online"
+linkTitle: "93"
+description: "Read Psalm 93 Online | Jehovah reigneth; he is clothed with majesty; Jehovah is clothed with strength; he hath girded himself therewith: The world also is established, that it cannot be moved..."
 weight: 93
 ---
 
-# Psalm 93
+# Psalm 93 
 
 **¹** Jehovah reigneth; he is clothed with majesty; Jehovah is clothed with strength; he hath girded himself therewith: The world also is established, that it cannot be moved. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 44 ASV | Read the Bible Online"
+linkTitle: "44"
+description: "Read Isaiah 44 Online | Yet now hear, O Jacob my servant, and Israel, who I have chosen..."
 weight: 44
 ---
 
-# Chapter 44
+# Isaiah 44 
 
 **¹** Yet now hear, O Jacob my servant, and Israel, who I have chosen: 
 

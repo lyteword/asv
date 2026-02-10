@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 35 ASV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Ezekiel 35 Online | Moreover the word of Jehovah came unto me, saying..."
 weight: 35
 ---
 
-# Chapter 35
+# Ezekiel 35 
 
 **¹** Moreover the word of Jehovah came unto me, saying, 
 

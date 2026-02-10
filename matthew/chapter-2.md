@@ -1,8 +1,11 @@
 ---
+title: "Matthew 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Matthew 2 Online | Now when Jesus was born in Bethlehem of Judæa in the days of Herod the king, behold, Wise-men from the east came to Jerusalem, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Matthew 2 
 
 **¹** Now when Jesus was born in Bethlehem of Judæa in the days of Herod the king, behold, Wise-men from the east came to Jerusalem, saying, 
 

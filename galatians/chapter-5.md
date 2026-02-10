@@ -1,8 +1,11 @@
 ---
+title: "Galatians 5 ASV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Galatians 5 Online | For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage..."
 weight: 5
 ---
 
-# Chapter 5
+# Galatians 5 
 
 **¹** For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage. 
 

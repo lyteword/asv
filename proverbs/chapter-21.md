@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 21 ASV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Proverbs 21 Online | The king’s heart is in the hand of Jehovah as the watercourses: He turneth it whithersoever he will..."
 weight: 21
 ---
 
-# Chapter 21
+# Proverbs 21 
 
 **¹** The king’s heart is in the hand of Jehovah as the watercourses: He turneth it whithersoever he will. 
 

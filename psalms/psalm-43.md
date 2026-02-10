@@ -1,8 +1,11 @@
 ---
+title: "Psalm 43 ASV | Read the Bible Online"
+linkTitle: "43"
+description: "Read Psalm 43 Online | Judge me, O God, and plead my cause against an ungodly nation: Oh deliver me from the deceitful and unjust man..."
 weight: 43
 ---
 
-# Psalm 43
+# Psalm 43 
 
 **¹** Judge me, O God, and plead my cause against an ungodly nation: Oh deliver me from the deceitful and unjust man. 
 

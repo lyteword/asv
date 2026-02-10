@@ -1,8 +1,11 @@
 ---
+title: "Acts 15 ASV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Acts 15 Online | And certain men came down from Judæa and taught the brethren, saying, Except ye be circumcised after the custom of Moses, ye cannot be saved..."
 weight: 15
 ---
 
-# Chapter 15
+# Acts 15 
 
 **¹** And certain men came down from Judæa and taught the brethren, saying, Except ye be circumcised after the custom of Moses, ye cannot be saved. 
 

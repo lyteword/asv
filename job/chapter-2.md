@@ -1,8 +1,11 @@
 ---
+title: "Job 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Job 2 Online | Again it came to pass on the day when the sons of God came to present themselves before Jehovah, that Satan came also among them to present himself before Jehovah..."
 weight: 2
 ---
 
-# Chapter 2
+# Job 2 
 
 **¹** Again it came to pass on the day when the sons of God came to present themselves before Jehovah, that Satan came also among them to present himself before Jehovah. 
 

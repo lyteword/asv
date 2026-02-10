@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 11 ASV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Proverbs 11 Online | A false balance is an abomination to Jehovah; But a just weight is his delight..."
 weight: 11
 ---
 
-# Chapter 11
+# Proverbs 11 
 
 **¹** A false balance is an abomination to Jehovah; But a just weight is his delight. 
 

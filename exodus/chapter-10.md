@@ -1,8 +1,11 @@
 ---
+title: "Exodus 10 ASV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Exodus 10 Online | And Jehovah said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I may show these my signs in the midst of them..."
 weight: 10
 ---
 
-# Chapter 10
+# Exodus 10 
 
 **¹** And Jehovah said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I may show these my signs in the midst of them, 
 

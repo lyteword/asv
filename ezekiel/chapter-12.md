@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 12 ASV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Ezekiel 12 Online | The word of Jehovah also came unto me, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Ezekiel 12 
 
 **¹** The word of Jehovah also came unto me, saying, 
 

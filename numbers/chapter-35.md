@@ -1,8 +1,11 @@
 ---
+title: "Numbers 35 ASV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Numbers 35 Online | And Jehovah spake unto Moses in the plains of Moab by the Jordan at Jericho, saying..."
 weight: 35
 ---
 
-# Chapter 35
+# Numbers 35 
 
 **¹** And Jehovah spake unto Moses in the plains of Moab by the Jordan at Jericho, saying, 
 

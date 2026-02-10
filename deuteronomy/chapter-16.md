@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 16 ASV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Deuteronomy 16 Online | Observe the month of Abib, and keep the passover unto Jehovah thy God; for in the month of Abib Jehovah thy God brought thee forth out of Egypt by night..."
 weight: 16
 ---
 
-# Chapter 16
+# Deuteronomy 16 
 
 **¹** Observe the month of Abib, and keep the passover unto Jehovah thy God; for in the month of Abib Jehovah thy God brought thee forth out of Egypt by night. 
 

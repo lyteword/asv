@@ -1,8 +1,11 @@
 ---
+title: "Psalm 86 ASV | Read the Bible Online"
+linkTitle: "86"
+description: "Read Psalm 86 Online | A Prayer of David. Bow down thine ear, O Jehovah, and answer me; For I am poor and needy..."
 weight: 86
 ---
 
-# Psalm 86
+# Psalm 86 
 
 **¹** A Prayer of David. Bow down thine ear, O Jehovah, and answer me; For I am poor and needy. 
 

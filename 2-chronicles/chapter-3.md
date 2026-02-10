@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Chronicles 3 Online | Then Solomon began to build the house of Jehovah at Jerusalem on mount Moriah, where Jehovah appeared unto David his father, which he made ready in the place that David had appointed, in the threshing-floor of Ornan the Jebusite..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Chronicles 3 
 
 **¹** Then Solomon began to build the house of Jehovah at Jerusalem on mount Moriah, where Jehovah appeared unto David his father, which he made ready in the place that David had appointed, in the threshing-floor of Ornan the Jebusite. 
 

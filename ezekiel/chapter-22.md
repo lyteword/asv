@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Ezekiel 22 Online | Moreover the word of Jehovah came unto me, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Ezekiel 22 
 
 **¹** Moreover the word of Jehovah came unto me, saying, 
 

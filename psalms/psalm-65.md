@@ -1,8 +1,11 @@
 ---
+title: "Psalm 65 ASV | Read the Bible Online"
+linkTitle: "65"
+description: "Read Psalm 65 Online | For the Chief Musician. A Psalm. A Song of David. Praise waiteth for thee, O God, in Zion; And unto thee shall the vow be performed..."
 weight: 65
 ---
 
-# Psalm 65
+# Psalm 65 
 
 **¹** For the Chief Musician. A Psalm. A Song of David. Praise waiteth for thee, O God, in Zion; And unto thee shall the vow be performed. 
 
