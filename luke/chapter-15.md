@@ -1,8 +1,11 @@
 ---
+title: "Luke 15 ASV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Luke 15 Online | Now all the publicans and sinners were drawing near unto him to hear him..."
 weight: 15
 ---
 
-# Chapter 15
+# Luke 15 
 
 **¹** Now all the publicans and sinners were drawing near unto him to hear him. 
 

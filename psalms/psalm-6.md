@@ -1,8 +1,11 @@
 ---
+title: "Psalm 6 ASV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Psalm 6 Online | For the Chief Musician; on stringed instruments, set to the Sheminith. A Psalm of David. O Jehovah, rebuke me not in thine anger, Neither chasten me in thy hot displeasure..."
 weight: 6
 ---
 
-# Psalm 6
+# Psalm 6 
 
 **¹** For the Chief Musician; on stringed instruments, set to the Sheminith. A Psalm of David. O Jehovah, rebuke me not in thine anger, Neither chasten me in thy hot displeasure. 
 

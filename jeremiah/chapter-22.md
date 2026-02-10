@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Jeremiah 22 Online | Thus said Jehovah: Go down to the house of the king of Judah, and speak there this word..."
 weight: 22
 ---
 
-# Chapter 22
+# Jeremiah 22 
 
 **¹** Thus said Jehovah: Go down to the house of the king of Judah, and speak there this word, 
 

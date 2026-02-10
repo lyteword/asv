@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 12 ASV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Leviticus 12 Online | And Jehovah spake unto Moses, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Leviticus 12 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

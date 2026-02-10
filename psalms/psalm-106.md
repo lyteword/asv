@@ -1,8 +1,11 @@
 ---
+title: "Psalm 106 ASV | Read the Bible Online"
+linkTitle: "106"
+description: "Read Psalm 106 Online | Praise ye Jehovah. Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever..."
 weight: 106
 ---
 
-# Psalm 106
+# Psalm 106 
 
 **¹** Praise ye Jehovah. Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever. 
 

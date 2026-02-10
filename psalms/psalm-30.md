@@ -1,8 +1,11 @@
 ---
+title: "Psalm 30 ASV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Psalm 30 Online | A Psalm; a Song at the Dedication of the House. A Psalm of David. I will extol thee, O Jehovah; for thou hast raised me up, And hast not made my foes to rejoice over me..."
 weight: 30
 ---
 
-# Psalm 30
+# Psalm 30 
 
 **¹** A Psalm; a Song at the Dedication of the House. A Psalm of David. I will extol thee, O Jehovah; for thou hast raised me up, And hast not made my foes to rejoice over me. 
 

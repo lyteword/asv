@@ -1,8 +1,11 @@
 ---
+title: "Joshua 17 ASV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Joshua 17 Online | And this was the lot for the tribe of Manasseh; for he was the first-born of Joseph. As for Machir the first-born of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan..."
 weight: 17
 ---
 
-# Chapter 17
+# Joshua 17 
 
 **¹** And this was the lot for the tribe of Manasseh; for he was the first-born of Joseph. As for Machir the first-born of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan. 
 

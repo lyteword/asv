@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Leviticus 4 Online | And Jehovah spake unto Moses, saying..."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

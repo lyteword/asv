@@ -1,8 +1,11 @@
 ---
+title: "Psalm 19 ASV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Psalm 19 Online | For the Chief Musician. A Psalm of David. The heavens declare the glory of God; And the firmament showeth his handiwork..."
 weight: 19
 ---
 
-# Psalm 19
+# Psalm 19 
 
 **¹** For the Chief Musician. A Psalm of David. The heavens declare the glory of God; And the firmament showeth his handiwork. 
 

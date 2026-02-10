@@ -1,8 +1,11 @@
 ---
+title: "Numbers 31 ASV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Numbers 31 Online | And Jehovah spake unto Moses, saying..."
 weight: 31
 ---
 
-# Chapter 31
+# Numbers 31 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

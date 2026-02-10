@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 16 ASV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Jeremiah 16 Online | The word of Jehovah came also unto me, saying..."
 weight: 16
 ---
 
-# Chapter 16
+# Jeremiah 16 
 
 **¹** The word of Jehovah came also unto me, saying, 
 

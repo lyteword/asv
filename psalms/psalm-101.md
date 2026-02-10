@@ -1,8 +1,11 @@
 ---
+title: "Psalm 101 ASV | Read the Bible Online"
+linkTitle: "101"
+description: "Read Psalm 101 Online | A Psalm of David. I will sing of lovingkindness and justice: Unto thee, O Jehovah, will I sing praises..."
 weight: 101
 ---
 
-# Psalm 101
+# Psalm 101 
 
 **¹** A Psalm of David. I will sing of lovingkindness and justice: Unto thee, O Jehovah, will I sing praises. 
 

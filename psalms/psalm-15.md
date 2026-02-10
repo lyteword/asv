@@ -1,8 +1,11 @@
 ---
+title: "Psalm 15 ASV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Psalm 15 Online | A Psalm of David. Jehovah, who shall sojourn in thy tabernacle? Who shall dwell in thy holy hill..."
 weight: 15
 ---
 
-# Psalm 15
+# Psalm 15 
 
 **¹** A Psalm of David. Jehovah, who shall sojourn in thy tabernacle? Who shall dwell in thy holy hill? 
 

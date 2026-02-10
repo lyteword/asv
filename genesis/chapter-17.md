@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 ASV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Genesis 17 Online | And when Abram was ninety years old and nine, Jehovah appeared to Abram, and said unto him, I am God Almighty; walk before me, and be thou perfect..."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 **¹** And when Abram was ninety years old and nine, Jehovah appeared to Abram, and said unto him, I am God Almighty; walk before me, and be thou perfect. 
 

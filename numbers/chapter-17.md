@@ -1,8 +1,11 @@
 ---
+title: "Numbers 17 ASV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Numbers 17 Online | And Jehovah spake unto Moses, saying..."
 weight: 17
 ---
 
-# Chapter 17
+# Numbers 17 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

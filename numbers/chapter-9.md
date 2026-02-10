@@ -1,8 +1,11 @@
 ---
+title: "Numbers 9 ASV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Numbers 9 Online | And Jehovah spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying..."
 weight: 9
 ---
 
-# Chapter 9
+# Numbers 9 
 
 **¹** And Jehovah spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying, 
 

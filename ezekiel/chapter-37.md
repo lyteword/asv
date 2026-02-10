@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 ASV | Read the Bible Online"
+linkTitle: "37"
+description: "Read Ezekiel 37 Online | The hand of Jehovah was upon me, and he brought me out in the Spirit of Jehovah, and set me down in the midst of the valley; and it was full of bones..."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 **¹** The hand of Jehovah was upon me, and he brought me out in the Spirit of Jehovah, and set me down in the midst of the valley; and it was full of bones. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 29 ASV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Psalm 29 Online | A Psalm of David. Ascribe unto Jehovah, O ye sons of the mighty, Ascribe unto Jehovah glory and strength..."
 weight: 29
 ---
 
-# Psalm 29
+# Psalm 29 
 
 **¹** A Psalm of David. Ascribe unto Jehovah, O ye sons of the mighty, Ascribe unto Jehovah glory and strength. 
 

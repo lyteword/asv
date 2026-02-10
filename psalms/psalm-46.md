@@ -1,8 +1,11 @@
 ---
+title: "Psalm 46 ASV | Read the Bible Online"
+linkTitle: "46"
+description: "Read Psalm 46 Online | For the Chief Musician. A Psalm of the sons of Korah; set to Alamoth. A Song. God is our refuge and strength, A very present help in trouble..."
 weight: 46
 ---
 
-# Psalm 46
+# Psalm 46 
 
 **¹** For the Chief Musician. A Psalm of the sons of Korah; set to Alamoth. A Song. God is our refuge and strength, A very present help in trouble. 
 

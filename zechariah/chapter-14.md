@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 14 ASV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Zechariah 14 Online | Behold, a day of Jehovah cometh, when thy spoil shall be divided in the midst of thee..."
 weight: 14
 ---
 
-# Chapter 14
+# Zechariah 14 
 
 **¹** Behold, a day of Jehovah cometh, when thy spoil shall be divided in the midst of thee. 
 

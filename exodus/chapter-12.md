@@ -1,8 +1,11 @@
 ---
+title: "Exodus 12 ASV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Exodus 12 Online | And Jehovah spake unto Moses and Aaron in the land of Egypt, saying..."
 weight: 12
 ---
 
-# Chapter 12
+# Exodus 12 
 
 **¹** And Jehovah spake unto Moses and Aaron in the land of Egypt, saying, 
 

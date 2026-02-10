@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Corinthians 2 Online | And I, brethren, when I came unto you, came not with excellency of speech or of wisdom, proclaiming to you the testimony of God..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Corinthians 2 
 
 **¹** And I, brethren, when I came unto you, came not with excellency of speech or of wisdom, proclaiming to you the testimony of God. 
 

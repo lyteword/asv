@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 26 ASV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Deuteronomy 26 Online | And it shall be, when thou art come in unto the land which Jehovah thy God giveth thee for an inheritance, and possessest it, and dwellest therein..."
 weight: 26
 ---
 
-# Chapter 26
+# Deuteronomy 26 
 
 **¹** And it shall be, when thou art come in unto the land which Jehovah thy God giveth thee for an inheritance, and possessest it, and dwellest therein, 
 

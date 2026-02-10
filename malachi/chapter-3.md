@@ -1,8 +1,11 @@
 ---
+title: "Malachi 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Malachi 3 Online | Behold, I send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, will suddenly come to his temple; and the messenger of the covenant, whom ye desire, behold, he cometh, saith Jehovah of hosts..."
 weight: 3
 ---
 
-# Chapter 3
+# Malachi 3 
 
 **¹** Behold, I send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, will suddenly come to his temple; and the messenger of the covenant, whom ye desire, behold, he cometh, saith Jehovah of hosts. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Daniel 6 ASV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Daniel 6 Online | It pleased Darius to set over the kingdom a hundred and twenty satraps, who should be throughout the whole kingdom..."
 weight: 6
 ---
 
-# Chapter 6
+# Daniel 6 
 
 **¹** It pleased Darius to set over the kingdom a hundred and twenty satraps, who should be throughout the whole kingdom; 
 

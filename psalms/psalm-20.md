@@ -1,8 +1,11 @@
 ---
+title: "Psalm 20 ASV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Psalm 20 Online | For the Chief Musician. A Psalm of David. Jehovah answer thee in the day of trouble; The name of the God of Jacob set thee up on high..."
 weight: 20
 ---
 
-# Psalm 20
+# Psalm 20 
 
 **¹** For the Chief Musician. A Psalm of David. Jehovah answer thee in the day of trouble; The name of the God of Jacob set thee up on high; 
 

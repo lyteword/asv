@@ -1,8 +1,11 @@
 ---
+title: "Joshua 5 ASV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Joshua 5 Online | And it came to pass, when all the kings of the Amorites, that were beyond the Jordan westward, and all the kings of the Canaanites, that were by the sea, heard how that Jehovah had dried up the waters of the Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel..."
 weight: 5
 ---
 
-# Chapter 5
+# Joshua 5 
 
 **¹** And it came to pass, when all the kings of the Amorites, that were beyond the Jordan westward, and all the kings of the Canaanites, that were by the sea, heard how that Jehovah had dried up the waters of the Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel. 
 

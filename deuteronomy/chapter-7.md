@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 7 ASV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Deuteronomy 7 Online | When Jehovah thy God shall bring thee into the land whither thou goest to possess it, and shall cast out many nations before thee, the Hittite, and the Girgashite, and the Amorite, and the Canaanite, and the Perizzite, and the Hivite, and the Jebusite, seven nations greater and mightier than thou..."
 weight: 7
 ---
 
-# Chapter 7
+# Deuteronomy 7 
 
 **¹** When Jehovah thy God shall bring thee into the land whither thou goest to possess it, and shall cast out many nations before thee, the Hittite, and the Girgashite, and the Amorite, and the Canaanite, and the Perizzite, and the Hivite, and the Jebusite, seven nations greater and mightier than thou; 
 

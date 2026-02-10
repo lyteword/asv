@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 14 ASV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Leviticus 14 Online | And Jehovah spake unto Moses, saying..."
 weight: 14
 ---
 
-# Chapter 14
+# Leviticus 14 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

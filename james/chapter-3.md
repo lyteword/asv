@@ -1,8 +1,11 @@
 ---
+title: "James 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read James 3 Online | Be not many of you teachers, my brethren, knowing that we shall receive heavier judgment..."
 weight: 3
 ---
 
-# Chapter 3
+# James 3 
 
 **¹** Be not many of you teachers, my brethren, knowing that we shall receive heavier judgment. 
 

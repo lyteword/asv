@@ -1,8 +1,11 @@
 ---
+title: "Job 28 ASV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Job 28 Online | Surely there is a mine for silver, And a place for gold which they refine..."
 weight: 28
 ---
 
-# Chapter 28
+# Job 28 
 
 **¹** Surely there is a mine for silver, And a place for gold which they refine. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 78 ASV | Read the Bible Online"
+linkTitle: "78"
+description: "Read Psalm 78 Online | Maschil of Asaph. Give ear, O my people, to my law: Incline your ears to the words of my mouth..."
 weight: 78
 ---
 
-# Psalm 78
+# Psalm 78 
 
 **¹** Maschil of Asaph. Give ear, O my people, to my law: Incline your ears to the words of my mouth. 
 

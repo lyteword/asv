@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read 1 Chronicles 22 Online | Then David said, This is the house of Jehovah God, and this is the altar of burnt-offering for Israel..."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Chronicles 22 
 
 **¹** Then David said, This is the house of Jehovah God, and this is the altar of burnt-offering for Israel. 
 

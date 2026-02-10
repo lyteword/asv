@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 42 ASV | Read the Bible Online"
+linkTitle: "42"
+description: "Read Isaiah 42 Online | Behold, my servant, whom I uphold; my chosen, in whom my soul delighteth: I have put my Spirit upon him; he will bring forth justice to the Gentiles..."
 weight: 42
 ---
 
-# Chapter 42
+# Isaiah 42 
 
 **¹** Behold, my servant, whom I uphold; my chosen, in whom my soul delighteth: I have put my Spirit upon him; he will bring forth justice to the Gentiles. 
 

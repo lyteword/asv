@@ -1,8 +1,11 @@
 ---
+title: "Numbers 15 ASV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Numbers 15 Online | And Jehovah spake unto Moses, saying..."
 weight: 15
 ---
 
-# Chapter 15
+# Numbers 15 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

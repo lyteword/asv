@@ -1,8 +1,11 @@
 ---
+title: "Psalm 44 ASV | Read the Bible Online"
+linkTitle: "44"
+description: "Read Psalm 44 Online | For the Chief Musician. A Psalm of the sons of Korah. Maschil. We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old..."
 weight: 44
 ---
 
-# Psalm 44
+# Psalm 44 
 
 **¹** For the Chief Musician. A Psalm of the sons of Korah. Maschil. We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old. 
 

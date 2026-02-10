@@ -1,8 +1,11 @@
 ---
+title: "Genesis 23 ASV | Read the Bible Online"
+linkTitle: "23"
+description: "Read Genesis 23 Online | And the life of Sarah was a hundred and seven and twenty years: these were the years of the life of Sarah..."
 weight: 23
 ---
 
-# Chapter 23
+# Genesis 23 
 
 **¹** And the life of Sarah was a hundred and seven and twenty years: these were the years of the life of Sarah. 
 

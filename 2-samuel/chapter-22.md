@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read 2 Samuel 22 Online | And David spake unto Jehovah the words of this song in the day that Jehovah delivered him out of the hand of all his enemies, and out of the hand of Saul..."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Samuel 22 
 
 **¹** And David spake unto Jehovah the words of this song in the day that Jehovah delivered him out of the hand of all his enemies, and out of the hand of Saul: 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 7 ASV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Psalm 7 Online | Shiggaion of David, which he sang unto Jehovah, concerning the words of Cush a Benjamite. O Jehovah my God, in thee do I take refuge: Save me from all them that pursue me, and deliver me..."
 weight: 7
 ---
 
-# Psalm 7
+# Psalm 7 
 
 **¹** Shiggaion of David, which he sang unto Jehovah, concerning the words of Cush a Benjamite. O Jehovah my God, in thee do I take refuge: Save me from all them that pursue me, and deliver me, 
 

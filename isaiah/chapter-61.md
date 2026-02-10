@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 61 ASV | Read the Bible Online"
+linkTitle: "61"
+description: "Read Isaiah 61 Online | The Spirit of the Lord Jehovah is upon me; because Jehovah hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound..."
 weight: 61
 ---
 
-# Chapter 61
+# Isaiah 61 
 
 **¹** The Spirit of the Lord Jehovah is upon me; because Jehovah hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; 
 

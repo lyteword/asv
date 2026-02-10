@@ -1,8 +1,11 @@
 ---
+title: "Ezra 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ezra 4 Online | Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple unto Jehovah, the God of Israel..."
 weight: 4
 ---
 
-# Chapter 4
+# Ezra 4 
 
 **¹** Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple unto Jehovah, the God of Israel; 
 

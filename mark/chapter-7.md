@@ -1,8 +1,11 @@
 ---
+title: "Mark 7 ASV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Mark 7 Online | And there are gathered together unto him the Pharisees, and certain of the scribes, who had come from Jerusalem..."
 weight: 7
 ---
 
-# Chapter 7
+# Mark 7 
 
 **¹** And there are gathered together unto him the Pharisees, and certain of the scribes, who had come from Jerusalem, 
 

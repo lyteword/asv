@@ -1,8 +1,11 @@
 ---
+title: "Psalm 4 ASV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Psalm 4 Online | For the Chief Musician; on stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness; Thou hast set me at large when I was in distress: Have mercy upon me, and hear my prayer..."
 weight: 4
 ---
 
-# Psalm 4
+# Psalm 4 
 
 **¹** For the Chief Musician; on stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness; Thou hast set me at large when I was in distress: Have mercy upon me, and hear my prayer. 
 

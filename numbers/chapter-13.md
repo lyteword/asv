@@ -1,8 +1,11 @@
 ---
+title: "Numbers 13 ASV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Numbers 13 Online | And Jehovah spake unto Moses, saying..."
 weight: 13
 ---
 
-# Chapter 13
+# Numbers 13 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

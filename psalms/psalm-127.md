@@ -1,8 +1,11 @@
 ---
+title: "Psalm 127 ASV | Read the Bible Online"
+linkTitle: "127"
+description: "Read Psalm 127 Online | A Song of Ascents; of Solomon. Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain..."
 weight: 127
 ---
 
-# Psalm 127
+# Psalm 127 
 
 **¹** A Song of Ascents; of Solomon. Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain. 
 

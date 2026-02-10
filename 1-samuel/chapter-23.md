@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 23 ASV | Read the Bible Online"
+linkTitle: "23"
+description: "Read 1 Samuel 23 Online | And they told David, saying, Behold, the Philistines are fighting against Keilah, and are robbing the threshing-floors..."
 weight: 23
 ---
 
-# Chapter 23
+# 1 Samuel 23 
 
 **¹** And they told David, saying, Behold, the Philistines are fighting against Keilah, and are robbing the threshing-floors. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 8 ASV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Kings 8 Online | Now Elisha had spoken unto the woman, whose son he had restored to life, saying, Arise, and go thou and thy household, and sojourn wheresoever thou canst sojourn: for Jehovah hath called for a famine; and it shall also come upon the land seven years..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Kings 8 
 
 **¹** Now Elisha had spoken unto the woman, whose son he had restored to life, saying, Arise, and go thou and thy household, and sojourn wheresoever thou canst sojourn: for Jehovah hath called for a famine; and it shall also come upon the land seven years. 
 

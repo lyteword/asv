@@ -1,8 +1,11 @@
 ---
+title: "Psalm 70 ASV | Read the Bible Online"
+linkTitle: "70"
+description: "Read Psalm 70 Online | For the Chief Musician. A Psalm of David; to bring to remembrance. Make haste, O God, to deliver me; Make haste to help me, O Jehovah..."
 weight: 70
 ---
 
-# Psalm 70
+# Psalm 70 
 
 **¹** For the Chief Musician. A Psalm of David; to bring to remembrance. Make haste, O God, to deliver me; Make haste to help me, O Jehovah. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 5 ASV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Song Of Solomon 5 Online | I am come into my garden, my sister, my bride: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends; Drink, yea, drink abundantly, O beloved..."
 weight: 5
 ---
 
-# Chapter 5
+# Song Of Solomon 5 
 
 **¹** I am come into my garden, my sister, my bride: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends; Drink, yea, drink abundantly, O beloved. 
 

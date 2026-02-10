@@ -1,8 +1,11 @@
 ---
+title: "Psalm 79 ASV | Read the Bible Online"
+linkTitle: "79"
+description: "Read Psalm 79 Online | A Psalm of Asaph. O God, the nations are come into thine inheritance; Thy holy temple have they defiled; They have laid Jerusalem in heaps..."
 weight: 79
 ---
 
-# Psalm 79
+# Psalm 79 
 
 **¹** A Psalm of Asaph. O God, the nations are come into thine inheritance; Thy holy temple have they defiled; They have laid Jerusalem in heaps. 
 

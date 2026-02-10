@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 19 ASV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Leviticus 19 Online | And Jehovah spake unto Moses, saying..."
 weight: 19
 ---
 
-# Chapter 19
+# Leviticus 19 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

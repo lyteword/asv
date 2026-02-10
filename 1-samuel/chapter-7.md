@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 7 ASV | Read the Bible Online"
+linkTitle: "7"
+description: "Read 1 Samuel 7 Online | And the men of Kiriath-jearim came, and fetched up the ark of Jehovah, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of Jehovah..."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Samuel 7 
 
 **¹** And the men of Kiriath-jearim came, and fetched up the ark of Jehovah, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of Jehovah. 
 

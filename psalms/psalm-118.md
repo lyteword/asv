@@ -1,8 +1,11 @@
 ---
+title: "Psalm 118 ASV | Read the Bible Online"
+linkTitle: "118"
+description: "Read Psalm 118 Online | Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever..."
 weight: 118
 ---
 
-# Psalm 118
+# Psalm 118 
 
 **¹** Oh give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever. 
 

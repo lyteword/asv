@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 32 ASV | Read the Bible Online"
+linkTitle: "32"
+description: "Read Jeremiah 32 Online | The word that came to Jeremiah from Jehovah in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar..."
 weight: 32
 ---
 
-# Chapter 32
+# Jeremiah 32 
 
 **¹** The word that came to Jeremiah from Jehovah in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar. 
 

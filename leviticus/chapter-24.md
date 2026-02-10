@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 24 ASV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Leviticus 24 Online | And Jehovah spake unto Moses, saying..."
 weight: 24
 ---
 
-# Chapter 24
+# Leviticus 24 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

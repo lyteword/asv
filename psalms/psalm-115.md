@@ -1,8 +1,11 @@
 ---
+title: "Psalm 115 ASV | Read the Bible Online"
+linkTitle: "115"
+description: "Read Psalm 115 Online | Not unto us, O Jehovah, not unto us, But unto thy name give glory, For thy lovingkindness, and for thy truth’s sake..."
 weight: 115
 ---
 
-# Psalm 115
+# Psalm 115 
 
 **¹** Not unto us, O Jehovah, not unto us, But unto thy name give glory, For thy lovingkindness, and for thy truth’s sake. 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 17 ASV | Read the Bible Online"
+linkTitle: "17"
+description: "Read 1 Samuel 17 Online | Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongeth to Judah, and encamped between Socoh and Azekah, in Ephes-dammim..."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Samuel 17 
 
 **¹** Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongeth to Judah, and encamped between Socoh and Azekah, in Ephes-dammim. 
 

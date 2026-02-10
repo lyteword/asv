@@ -1,8 +1,11 @@
 ---
+title: "Revelation 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Revelation 22 Online | And he showed me a river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb..."
 weight: 22
 ---
 
-# Chapter 22
+# Revelation 22 
 
 **¹** And he showed me a river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb, 
 

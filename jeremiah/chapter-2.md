@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 2 ASV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Jeremiah 2 Online | And the word of Jehovah came to me, saying..."
 weight: 2
 ---
 
-# Chapter 2
+# Jeremiah 2 
 
 **¹** And the word of Jehovah came to me, saying, 
 

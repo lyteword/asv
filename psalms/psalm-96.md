@@ -1,8 +1,11 @@
 ---
+title: "Psalm 96 ASV | Read the Bible Online"
+linkTitle: "96"
+description: "Read Psalm 96 Online | Oh sing unto Jehovah a new song: Sing unto Jehovah, all the earth..."
 weight: 96
 ---
 
-# Psalm 96
+# Psalm 96 
 
 **¹** Oh sing unto Jehovah a new song: Sing unto Jehovah, all the earth. 
 

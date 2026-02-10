@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 16 ASV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Ezekiel 16 Online | Again the word of Jehovah came unto me, saying..."
 weight: 16
 ---
 
-# Chapter 16
+# Ezekiel 16 
 
 **¹** Again the word of Jehovah came unto me, saying, 
 

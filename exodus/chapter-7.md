@@ -1,8 +1,11 @@
 ---
+title: "Exodus 7 ASV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Exodus 7 Online | And Jehovah said unto Moses, See, I have made thee as God to Pharaoh; and Aaron thy brother shall be thy prophet..."
 weight: 7
 ---
 
-# Chapter 7
+# Exodus 7 
 
 **¹** And Jehovah said unto Moses, See, I have made thee as God to Pharaoh; and Aaron thy brother shall be thy prophet. 
 

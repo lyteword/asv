@@ -1,8 +1,11 @@
 ---
+title: "Psalm 12 ASV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Psalm 12 Online | For the Chief Musician; set to the Sheminith. A Psalm of David. Help, Jehovah; for the godly man ceaseth; For the faithful fail from among the children of men..."
 weight: 12
 ---
 
-# Psalm 12
+# Psalm 12 
 
 **¹** For the Chief Musician; set to the Sheminith. A Psalm of David. Help, Jehovah; for the godly man ceaseth; For the faithful fail from among the children of men. 
 

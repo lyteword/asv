@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 18 ASV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Leviticus 18 Online | And Jehovah spake unto Moses, saying..."
 weight: 18
 ---
 
-# Chapter 18
+# Leviticus 18 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

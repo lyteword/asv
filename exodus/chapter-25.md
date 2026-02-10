@@ -1,8 +1,11 @@
 ---
+title: "Exodus 25 ASV | Read the Bible Online"
+linkTitle: "25"
+description: "Read Exodus 25 Online | And Jehovah spake unto Moses, saying..."
 weight: 25
 ---
 
-# Chapter 25
+# Exodus 25 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

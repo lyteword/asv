@@ -1,8 +1,11 @@
 ---
+title: "Psalm 132 ASV | Read the Bible Online"
+linkTitle: "132"
+description: "Read Psalm 132 Online | A Song of Ascents. Jehovah, remember for David All his affliction..."
 weight: 132
 ---
 
-# Psalm 132
+# Psalm 132 
 
 **¹** A Song of Ascents. Jehovah, remember for David All his affliction; 
 

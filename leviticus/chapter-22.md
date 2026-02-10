@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 22 ASV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Leviticus 22 Online | And Jehovah spake unto Moses, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Leviticus 22 
 
 **¹** And Jehovah spake unto Moses, saying, 
 

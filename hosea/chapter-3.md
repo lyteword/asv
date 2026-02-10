@@ -1,8 +1,11 @@
 ---
+title: "Hosea 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Hosea 3 Online | And Jehovah said unto me, Go again, love a woman beloved of her friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins..."
 weight: 3
 ---
 
-# Chapter 3
+# Hosea 3 
 
 **¹** And Jehovah said unto me, Go again, love a woman beloved of her friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins. 
 

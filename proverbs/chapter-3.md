@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 3 ASV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Proverbs 3 Online | My son, forget not my law; But let thy heart keep my commandments..."
 weight: 3
 ---
 
-# Chapter 3
+# Proverbs 3 
 
 **¹** My son, forget not my law; But let thy heart keep my commandments: 
 

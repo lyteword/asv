@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 53 ASV | Read the Bible Online"
+linkTitle: "53"
+description: "Read Isaiah 53 Online | Who hath believed our message? and to whom hath the arm of Jehovah been revealed..."
 weight: 53
 ---
 
-# Chapter 53
+# Isaiah 53 
 
 **¹** Who hath believed our message? and to whom hath the arm of Jehovah been revealed? 
 

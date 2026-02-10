@@ -1,8 +1,11 @@
 ---
+title: "Hosea 9 ASV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hosea 9 Online | Rejoice not, O Israel, for joy, like the peoples; for thou hast played the harlot, departing from thy God; thou hast loved hire upon every grain-floor..."
 weight: 9
 ---
 
-# Chapter 9
+# Hosea 9 
 
 **¹** Rejoice not, O Israel, for joy, like the peoples; for thou hast played the harlot, departing from thy God; thou hast loved hire upon every grain-floor. 
 
