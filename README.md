@@ -22,7 +22,7 @@ This repository contains a complete **American Standard Version (ASV)** 1901 tra
 
 `john/chapter-1.md`
 ```
-# Chapter 1
+# John 1
 
 **¹** In the beginning was the Word, and the Word was with God, and the Word was God. 
 
