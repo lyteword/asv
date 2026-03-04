@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 49 ASV | Read the Bible Online"
 linkTitle: "49"
-description: "Read Jeremiah 49 Online | Of the children of Ammon. Thus saith Jehovah: Hath Israel no sons? hath he no heir? why then doth Malcam possess Gad, and his people dwell in the cities thereof..."
+description: >
+  Read Jeremiah 49 Online | Of the children of Ammon. Thus saith Jehovah: Hath Israel no sons? hath he no heir? why then doth Malcam possess Gad, and his people dwell in the cities thereof...
 weight: 49
 ---
 

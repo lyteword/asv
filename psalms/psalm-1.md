@@ -1,7 +1,8 @@
 ---
 title: "Psalm 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Psalm 1 Online | Blessed is the man that walketh not in the counsel of the wicked, Nor standeth in the way of sinners, Nor sitteth in the seat of scoffers..."
+description: >
+  Read Psalm 1 Online | Blessed is the man that walketh not in the counsel of the wicked, Nor standeth in the way of sinners, Nor sitteth in the seat of scoffers...
 weight: 1
 ---
 

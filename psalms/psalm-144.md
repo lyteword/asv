@@ -1,7 +1,8 @@
 ---
 title: "Psalm 144 ASV | Read the Bible Online"
 linkTitle: "144"
-description: "Read Psalm 144 Online | A Psalm of David. Blessed be Jehovah my rock, Who teacheth my hands to war, And my fingers to fight..."
+description: >
+  Read Psalm 144 Online | A Psalm of David. Blessed be Jehovah my rock, Who teacheth my hands to war, And my fingers to fight...
 weight: 144
 ---
 

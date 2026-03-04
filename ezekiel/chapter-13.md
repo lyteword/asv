@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 13 ASV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Ezekiel 13 Online | And the word of Jehovah came unto me, saying..."
+description: >
+  Read Ezekiel 13 Online | And the word of Jehovah came unto me, saying...
 weight: 13
 ---
 

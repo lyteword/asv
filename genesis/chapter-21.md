@@ -1,7 +1,8 @@
 ---
 title: "Genesis 21 ASV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Genesis 21 Online | And Jehovah visited Sarah as he had said, and Jehovah did unto Sarah as he had spoken..."
+description: >
+  Read Genesis 21 Online | And Jehovah visited Sarah as he had said, and Jehovah did unto Sarah as he had spoken...
 weight: 21
 ---
 

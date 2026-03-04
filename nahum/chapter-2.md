@@ -1,7 +1,8 @@
 ---
 title: "Nahum 2 ASV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Nahum 2 Online | He that dasheth in pieces is come up against thee: keep the fortress, watch the way, make thy loins strong, fortify thy power mightily..."
+description: >
+  Read Nahum 2 Online | He that dasheth in pieces is come up against thee: keep the fortress, watch the way, make thy loins strong, fortify thy power mightily...
 weight: 2
 ---
 

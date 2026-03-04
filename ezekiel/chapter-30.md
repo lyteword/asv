@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 30 ASV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Ezekiel 30 Online | The word of Jehovah came again unto me, saying..."
+description: >
+  Read Ezekiel 30 Online | The word of Jehovah came again unto me, saying...
 weight: 30
 ---
 

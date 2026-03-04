@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Zechariah 1 Online | In the eighth month, in the second year of Darius, came the word of Jehovah unto Zechariah the son of Berechiah, the son of Iddo, the prophet, saying..."
+description: >
+  Read Zechariah 1 Online | In the eighth month, in the second year of Darius, came the word of Jehovah unto Zechariah the son of Berechiah, the son of Iddo, the prophet, saying...
 weight: 1
 ---
 

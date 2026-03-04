@@ -1,7 +1,8 @@
 ---
 title: "Psalm 9 ASV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Psalm 9 Online | For the Chief Musician; set to Muth-labben. A Psalm of David. I will give thanks unto Jehovah with my whole heart; I will show forth all thy marvellous works..."
+description: >
+  Read Psalm 9 Online | For the Chief Musician; set to Muth-labben. A Psalm of David. I will give thanks unto Jehovah with my whole heart; I will show forth all thy marvellous works...
 weight: 9
 ---
 

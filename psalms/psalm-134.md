@@ -1,7 +1,8 @@
 ---
 title: "Psalm 134 ASV | Read the Bible Online"
 linkTitle: "134"
-description: "Read Psalm 134 Online | A Song of Ascents. Behold, bless ye Jehovah, all ye servants of Jehovah, That by night stand in the house of Jehovah..."
+description: >
+  Read Psalm 134 Online | A Song of Ascents. Behold, bless ye Jehovah, all ye servants of Jehovah, That by night stand in the house of Jehovah...
 weight: 134
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Malachi 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Malachi 1 Online | The burden of the word of Jehovah to Israel by Malachi..."
+description: >
+  Read Malachi 1 Online | The burden of the word of Jehovah to Israel by Malachi...
 weight: 1
 ---
 

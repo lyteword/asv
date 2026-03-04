@@ -1,7 +1,8 @@
 ---
 title: "Psalm 107 ASV | Read the Bible Online"
 linkTitle: "107"
-description: "Read Psalm 107 Online | O give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever..."
+description: >
+  Read Psalm 107 Online | O give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever...
 weight: 107
 ---
 

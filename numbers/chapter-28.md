@@ -1,7 +1,8 @@
 ---
 title: "Numbers 28 ASV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Numbers 28 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Numbers 28 Online | And Jehovah spake unto Moses, saying...
 weight: 28
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Job 7 ASV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Job 7 Online | Is there not a warfare to man upon earth? And are not his days like the days of a hireling..."
+description: >
+  Read Job 7 Online | Is there not a warfare to man upon earth? And are not his days like the days of a hireling...
 weight: 7
 ---
 

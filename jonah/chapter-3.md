@@ -1,7 +1,8 @@
 ---
 title: "Jonah 3 ASV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Jonah 3 Online | And the word of Jehovah came unto Jonah the second time, saying..."
+description: >
+  Read Jonah 3 Online | And the word of Jehovah came unto Jonah the second time, saying...
 weight: 3
 ---
 

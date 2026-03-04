@@ -1,7 +1,8 @@
 ---
 title: "Psalm 51 ASV | Read the Bible Online"
 linkTitle: "51"
-description: "Read Psalm 51 Online | For the Chief Musician. A Psalm of David; when Nathan the prophet came unto him, after he had gone in to Bath-sheba. Have mercy upon me, O God, according to thy lovingkindness: According to the multitude of thy tender mercies blot out my transgressions..."
+description: >
+  Read Psalm 51 Online | For the Chief Musician. A Psalm of David; when Nathan the prophet came unto him, after he had gone in to Bath-sheba. Have mercy upon me, O God, according to thy lovingkindness: According to the multitude of thy tender mercies blot out my transgressions...
 weight: 51
 ---
 

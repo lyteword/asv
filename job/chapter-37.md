@@ -1,7 +1,8 @@
 ---
 title: "Job 37 ASV | Read the Bible Online"
 linkTitle: "37"
-description: "Read Job 37 Online | Yea, at this my heart trembleth, And is moved out of its place..."
+description: >
+  Read Job 37 Online | Yea, at this my heart trembleth, And is moved out of its place...
 weight: 37
 ---
 

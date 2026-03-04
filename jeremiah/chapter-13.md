@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 13 ASV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Jeremiah 13 Online | Thus saith Jehovah unto me, Go, and buy thee a linen girdle, and put it upon thy loins, and put it not in water..."
+description: >
+  Read Jeremiah 13 Online | Thus saith Jehovah unto me, Go, and buy thee a linen girdle, and put it upon thy loins, and put it not in water...
 weight: 13
 ---
 

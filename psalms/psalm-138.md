@@ -1,7 +1,8 @@
 ---
 title: "Psalm 138 ASV | Read the Bible Online"
 linkTitle: "138"
-description: "Read Psalm 138 Online | A Psalm of David. I will give thee thanks with my whole heart: Before the gods will I sing praises unto thee..."
+description: >
+  Read Psalm 138 Online | A Psalm of David. I will give thee thanks with my whole heart: Before the gods will I sing praises unto thee...
 weight: 138
 ---
 

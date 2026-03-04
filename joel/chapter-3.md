@@ -1,7 +1,8 @@
 ---
 title: "Joel 3 ASV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Joel 3 Online | For, behold, in those days, and in that time, when I shall bring back the captivity of Judah and Jerusalem..."
+description: >
+  Read Joel 3 Online | For, behold, in those days, and in that time, when I shall bring back the captivity of Judah and Jerusalem...
 weight: 3
 ---
 

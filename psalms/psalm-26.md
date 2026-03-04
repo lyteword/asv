@@ -1,7 +1,8 @@
 ---
 title: "Psalm 26 ASV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Psalm 26 Online | A Psalm of David. Judge me, O Jehovah, for I have walked in mine integrity: I have trusted also in Jehovah without wavering..."
+description: >
+  Read Psalm 26 Online | A Psalm of David. Judge me, O Jehovah, for I have walked in mine integrity: I have trusted also in Jehovah without wavering...
 weight: 26
 ---
 

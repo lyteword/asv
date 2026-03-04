@@ -1,7 +1,8 @@
 ---
 title: "Psalm 131 ASV | Read the Bible Online"
 linkTitle: "131"
-description: "Read Psalm 131 Online | A Song of Ascents; of David. Jehovah, my heart is not haughty, nor mine eyes lofty; Neither do I exercise myself in great matters, Or in things too wonderful for me..."
+description: >
+  Read Psalm 131 Online | A Song of Ascents; of David. Jehovah, my heart is not haughty, nor mine eyes lofty; Neither do I exercise myself in great matters, Or in things too wonderful for me...
 weight: 131
 ---
 

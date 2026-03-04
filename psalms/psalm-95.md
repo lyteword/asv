@@ -1,7 +1,8 @@
 ---
 title: "Psalm 95 ASV | Read the Bible Online"
 linkTitle: "95"
-description: "Read Psalm 95 Online | Oh come, let us sing unto Jehovah; Let us make a joyful noise to the rock of our salvation..."
+description: >
+  Read Psalm 95 Online | Oh come, let us sing unto Jehovah; Let us make a joyful noise to the rock of our salvation...
 weight: 95
 ---
 

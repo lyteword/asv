@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 2 ASV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Chronicles 2 Online | Now Solomon purposed to build a house for the name of Jehovah, and a house for his kingdom..."
+description: >
+  Read 2 Chronicles 2 Online | Now Solomon purposed to build a house for the name of Jehovah, and a house for his kingdom...
 weight: 2
 ---
 

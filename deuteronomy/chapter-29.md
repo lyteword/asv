@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 29 ASV | Read the Bible Online"
 linkTitle: "29"
-description: "Read Deuteronomy 29 Online | These are the words of the covenant which Jehovah commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb..."
+description: >
+  Read Deuteronomy 29 Online | These are the words of the covenant which Jehovah commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb...
 weight: 29
 ---
 

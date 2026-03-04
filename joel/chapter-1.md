@@ -1,7 +1,8 @@
 ---
 title: "Joel 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Joel 1 Online | The word of Jehovah that came to Joel the son of Pethuel..."
+description: >
+  Read Joel 1 Online | The word of Jehovah that came to Joel the son of Pethuel...
 weight: 1
 ---
 

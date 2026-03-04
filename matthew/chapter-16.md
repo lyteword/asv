@@ -1,7 +1,8 @@
 ---
 title: "Matthew 16 ASV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Matthew 16 Online | And the Pharisees and Sadducees came, and trying him asked him to show them a sign from heaven..."
+description: >
+  Read Matthew 16 Online | And the Pharisees and Sadducees came, and trying him asked him to show them a sign from heaven...
 weight: 16
 ---
 

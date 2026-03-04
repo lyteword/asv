@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 7 ASV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Ecclesiastes 7 Online | A good name is better than precious oil; and the day of death, than the day of one’s birth..."
+description: >
+  Read Ecclesiastes 7 Online | A good name is better than precious oil; and the day of death, than the day of one’s birth...
 weight: 7
 ---
 

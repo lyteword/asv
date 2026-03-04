@@ -1,7 +1,8 @@
 ---
 title: "Joshua 20 ASV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Joshua 20 Online | And Jehovah spake unto Joshua, saying..."
+description: >
+  Read Joshua 20 Online | And Jehovah spake unto Joshua, saying...
 weight: 20
 ---
 

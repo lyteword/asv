@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 2 ASV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Jeremiah 2 Online | And the word of Jehovah came to me, saying..."
+description: >
+  Read Jeremiah 2 Online | And the word of Jehovah came to me, saying...
 weight: 2
 ---
 

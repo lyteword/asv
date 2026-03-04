@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 2 ASV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Samuel 2 Online | And Hannah prayed, and said: My heart exulteth in Jehovah; My horn is exalted in Jehovah; My mouth is enlarged over mine enemies; Because I rejoice in thy salvation..."
+description: >
+  Read 1 Samuel 2 Online | And Hannah prayed, and said: My heart exulteth in Jehovah; My horn is exalted in Jehovah; My mouth is enlarged over mine enemies; Because I rejoice in thy salvation...
 weight: 2
 ---
 

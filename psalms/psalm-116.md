@@ -1,7 +1,8 @@
 ---
 title: "Psalm 116 ASV | Read the Bible Online"
 linkTitle: "116"
-description: "Read Psalm 116 Online | I love Jehovah, because he heareth My voice and my supplications..."
+description: >
+  Read Psalm 116 Online | I love Jehovah, because he heareth My voice and my supplications...
 weight: 116
 ---
 

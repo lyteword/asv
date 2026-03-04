@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 33 ASV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Isaiah 33 Online | Woe to thee that destroyest, and thou wast not destroyed; and dealest treacherously, and they dealt not treacherously with thee! When thou hast ceased to destroy, thou shalt be destroyed; and when thou hast made an end of dealing treacherously, they shall deal treacherously with thee..."
+description: >
+  Read Isaiah 33 Online | Woe to thee that destroyest, and thou wast not destroyed; and dealest treacherously, and they dealt not treacherously with thee! When thou hast ceased to destroy, thou shalt be destroyed; and when thou hast made an end of dealing treacherously, they shall deal treacherously with thee...
 weight: 33
 ---
 

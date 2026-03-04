@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 3 ASV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Jeremiah 3 Online | They say, If a man put away his wife, and she go from him, and become another man’s, will he return unto her again? will not that land be greatly polluted? But thou hast played the harlot with many lovers; yet return again to me, saith Jehovah..."
+description: >
+  Read Jeremiah 3 Online | They say, If a man put away his wife, and she go from him, and become another man’s, will he return unto her again? will not that land be greatly polluted? But thou hast played the harlot with many lovers; yet return again to me, saith Jehovah...
 weight: 3
 ---
 

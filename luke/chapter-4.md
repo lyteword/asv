@@ -1,7 +1,8 @@
 ---
 title: "Luke 4 ASV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Luke 4 Online | And Jesus, full of the Holy Spirit, returned from the Jordan, and was led in the Spirit in the wilderness..."
+description: >
+  Read Luke 4 Online | And Jesus, full of the Holy Spirit, returned from the Jordan, and was led in the Spirit in the wilderness...
 weight: 4
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 120 ASV | Read the Bible Online"
 linkTitle: "120"
-description: "Read Psalm 120 Online | A Song of Ascents. In my distress I cried unto Jehovah, And he answered me..."
+description: >
+  Read Psalm 120 Online | A Song of Ascents. In my distress I cried unto Jehovah, And he answered me...
 weight: 120
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 111 ASV | Read the Bible Online"
 linkTitle: "111"
-description: "Read Psalm 111 Online | Praise ye Jehovah. I will give thanks unto Jehovah with my whole heart, In the council of the upright, and in the congregation..."
+description: >
+  Read Psalm 111 Online | Praise ye Jehovah. I will give thanks unto Jehovah with my whole heart, In the council of the upright, and in the congregation...
 weight: 111
 ---
 

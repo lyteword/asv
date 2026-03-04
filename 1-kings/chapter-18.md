@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 18 ASV | Read the Bible Online"
 linkTitle: "18"
-description: "Read 1 Kings 18 Online | And it came to pass after many days, that the word of Jehovah came to Elijah, in the third year, saying, Go, show thyself unto Ahab; and I will send rain upon the earth..."
+description: >
+  Read 1 Kings 18 Online | And it came to pass after many days, that the word of Jehovah came to Elijah, in the third year, saying, Go, show thyself unto Ahab; and I will send rain upon the earth...
 weight: 18
 ---
 

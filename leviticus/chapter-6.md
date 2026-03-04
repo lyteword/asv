@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 6 ASV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Leviticus 6 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Leviticus 6 Online | And Jehovah spake unto Moses, saying...
 weight: 6
 ---
 

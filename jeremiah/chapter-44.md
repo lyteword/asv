@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 44 ASV | Read the Bible Online"
 linkTitle: "44"
-description: "Read Jeremiah 44 Online | The word that came to Jeremiah concerning all the Jews that dwelt in the land of Egypt, that dwelt at Migdol, and at Tahpanhes, and at Memphis, and in the country of Pathros, saying..."
+description: >
+  Read Jeremiah 44 Online | The word that came to Jeremiah concerning all the Jews that dwelt in the land of Egypt, that dwelt at Migdol, and at Tahpanhes, and at Memphis, and in the country of Pathros, saying...
 weight: 44
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 31 ASV | Read the Bible Online"
 linkTitle: "31"
-description: "Read Jeremiah 31 Online | At that time, saith Jehovah, will I be the God of all the families of Israel, and they shall be my people..."
+description: >
+  Read Jeremiah 31 Online | At that time, saith Jehovah, will I be the God of all the families of Israel, and they shall be my people...
 weight: 31
 ---
 

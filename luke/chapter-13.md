@@ -1,7 +1,8 @@
 ---
 title: "Luke 13 ASV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Luke 13 Online | Now there were some present at that very season who told him of the Galilæans, whose blood Pilate had mingled with their sacrifices..."
+description: >
+  Read Luke 13 Online | Now there were some present at that very season who told him of the Galilæans, whose blood Pilate had mingled with their sacrifices...
 weight: 13
 ---
 

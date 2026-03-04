@@ -1,7 +1,8 @@
 ---
 title: "Psalm 27 ASV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Psalm 27 Online | A Psalm of David. Jehovah is my light and my salvation; Whom shall I fear? Jehovah is the strength of my life; Of whom shall I be afraid..."
+description: >
+  Read Psalm 27 Online | A Psalm of David. Jehovah is my light and my salvation; Whom shall I fear? Jehovah is the strength of my life; Of whom shall I be afraid...
 weight: 27
 ---
 

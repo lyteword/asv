@@ -1,7 +1,8 @@
 ---
 title: "Esther 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Esther 1 Online | Now it came to pass in the days of Ahasuerus (this is Ahasuerus who reigned from India even unto Ethiopia, over a hundred and seven and twenty provinces)..."
+description: >
+  Read Esther 1 Online | Now it came to pass in the days of Ahasuerus (this is Ahasuerus who reigned from India even unto Ethiopia, over a hundred and seven and twenty provinces)...
 weight: 1
 ---
 

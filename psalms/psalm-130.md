@@ -1,7 +1,8 @@
 ---
 title: "Psalm 130 ASV | Read the Bible Online"
 linkTitle: "130"
-description: "Read Psalm 130 Online | A Song of Ascents. Out of the depths have I cried unto thee, O Jehovah..."
+description: >
+  Read Psalm 130 Online | A Song of Ascents. Out of the depths have I cried unto thee, O Jehovah...
 weight: 130
 ---
 

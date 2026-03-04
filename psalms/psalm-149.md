@@ -1,7 +1,8 @@
 ---
 title: "Psalm 149 ASV | Read the Bible Online"
 linkTitle: "149"
-description: "Read Psalm 149 Online | Praise ye Jehovah. Sing unto Jehovah a new song, And his praise in the assembly of the saints..."
+description: >
+  Read Psalm 149 Online | Praise ye Jehovah. Sing unto Jehovah a new song, And his praise in the assembly of the saints...
 weight: 149
 ---
 

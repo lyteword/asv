@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 56 ASV | Read the Bible Online"
 linkTitle: "56"
-description: "Read Isaiah 56 Online | Thus saith Jehovah, Keep ye justice, and do righteousness; for my salvation is near to come, and my righteousness to be revealed..."
+description: >
+  Read Isaiah 56 Online | Thus saith Jehovah, Keep ye justice, and do righteousness; for my salvation is near to come, and my righteousness to be revealed...
 weight: 56
 ---
 
