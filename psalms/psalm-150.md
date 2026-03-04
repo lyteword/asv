@@ -1,7 +1,8 @@
 ---
 title: "Psalm 150 ASV | Read the Bible Online"
 linkTitle: "150"
-description: "Read Psalm 150 Online | Praise ye Jehovah. Praise God in his sanctuary: Praise him in the firmament of his power..."
+description: >
+  Read Psalm 150 Online | Praise ye Jehovah. Praise God in his sanctuary: Praise him in the firmament of his power...
 weight: 150
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 14 ASV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Exodus 14 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Exodus 14 Online | And Jehovah spake unto Moses, saying...
 weight: 14
 ---
 

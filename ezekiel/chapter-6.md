@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 6 ASV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Ezekiel 6 Online | And the word of Jehovah came unto me, saying..."
+description: >
+  Read Ezekiel 6 Online | And the word of Jehovah came unto me, saying...
 weight: 6
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Corinthians 10 ASV | Read the Bible Online"
 linkTitle: "10"
-description: "Read 1 Corinthians 10 Online | For I would not, brethren, have you ignorant, that our fathers were all under the cloud, and all passed through the sea..."
+description: >
+  Read 1 Corinthians 10 Online | For I would not, brethren, have you ignorant, that our fathers were all under the cloud, and all passed through the sea...
 weight: 10
 ---
 

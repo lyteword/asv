@@ -1,7 +1,8 @@
 ---
 title: "Psalm 73 ASV | Read the Bible Online"
 linkTitle: "73"
-description: "Read Psalm 73 Online | A Psalm of Asaph. Surely God is good to Israel, Even to such as are pure in heart..."
+description: >
+  Read Psalm 73 Online | A Psalm of Asaph. Surely God is good to Israel, Even to such as are pure in heart...
 weight: 73
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 38 ASV | Read the Bible Online"
 linkTitle: "38"
-description: "Read Psalm 38 Online | A Psalm of David, to bring to remembrance. O Jehovah, rebuke me not in thy wrath; Neither chasten me in thy hot displeasure..."
+description: >
+  Read Psalm 38 Online | A Psalm of David, to bring to remembrance. O Jehovah, rebuke me not in thy wrath; Neither chasten me in thy hot displeasure...
 weight: 38
 ---
 

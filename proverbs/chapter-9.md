@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 9 ASV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Proverbs 9 Online | Wisdom hath builded her house; She hath hewn out her seven pillars..."
+description: >
+  Read Proverbs 9 Online | Wisdom hath builded her house; She hath hewn out her seven pillars...
 weight: 9
 ---
 

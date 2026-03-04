@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 6 ASV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Samuel 6 Online | And the ark of Jehovah was in the country of the Philistines seven months..."
+description: >
+  Read 1 Samuel 6 Online | And the ark of Jehovah was in the country of the Philistines seven months...
 weight: 6
 ---
 

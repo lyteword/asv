@@ -1,7 +1,8 @@
 ---
 title: "Exodus 6 ASV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Exodus 6 Online | And Jehovah said unto Moses, Now shalt thou see what I will do to Pharaoh: for by a strong hand shall he let them go, and by a strong hand shall he drive them out of his land..."
+description: >
+  Read Exodus 6 Online | And Jehovah said unto Moses, Now shalt thou see what I will do to Pharaoh: for by a strong hand shall he let them go, and by a strong hand shall he drive them out of his land...
 weight: 6
 ---
 

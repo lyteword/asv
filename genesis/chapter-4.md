@@ -1,7 +1,8 @@
 ---
 title: "Genesis 4 ASV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Genesis 4 Online | And the man knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man with the help of Jehovah..."
+description: >
+  Read Genesis 4 Online | And the man knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man with the help of Jehovah...
 weight: 4
 ---
 

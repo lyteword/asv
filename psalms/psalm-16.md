@@ -1,7 +1,8 @@
 ---
 title: "Psalm 16 ASV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Psalm 16 Online | Michtam of David. Preserve me, O God; for in thee do I take refuge..."
+description: >
+  Read Psalm 16 Online | Michtam of David. Preserve me, O God; for in thee do I take refuge...
 weight: 16
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Numbers 19 ASV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Numbers 19 Online | And Jehovah spake unto Moses and unto Aaron, saying..."
+description: >
+  Read Numbers 19 Online | And Jehovah spake unto Moses and unto Aaron, saying...
 weight: 19
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Exodus 8 Online | And Jehovah spake unto Moses, Go in unto Pharaoh, and say unto him, Thus saith Jehovah, Let my people go, that they may serve me..."
+description: >
+  Read Exodus 8 Online | And Jehovah spake unto Moses, Go in unto Pharaoh, and say unto him, Thus saith Jehovah, Let my people go, that they may serve me...
 weight: 8
 ---
 

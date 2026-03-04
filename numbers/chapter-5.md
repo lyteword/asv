@@ -1,7 +1,8 @@
 ---
 title: "Numbers 5 ASV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Numbers 5 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Numbers 5 Online | And Jehovah spake unto Moses, saying...
 weight: 5
 ---
 

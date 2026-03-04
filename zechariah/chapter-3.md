@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 3 ASV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Zechariah 3 Online | And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan standing at his right hand to be his adversary..."
+description: >
+  Read Zechariah 3 Online | And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan standing at his right hand to be his adversary...
 weight: 3
 ---
 

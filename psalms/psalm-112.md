@@ -1,7 +1,8 @@
 ---
 title: "Psalm 112 ASV | Read the Bible Online"
 linkTitle: "112"
-description: "Read Psalm 112 Online | Praise ye Jehovah. Blessed is the man that feareth Jehovah, That delighteth greatly in his commandments..."
+description: >
+  Read Psalm 112 Online | Praise ye Jehovah. Blessed is the man that feareth Jehovah, That delighteth greatly in his commandments...
 weight: 112
 ---
 

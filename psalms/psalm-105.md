@@ -1,7 +1,8 @@
 ---
 title: "Psalm 105 ASV | Read the Bible Online"
 linkTitle: "105"
-description: "Read Psalm 105 Online | Oh give thanks unto Jehovah, call upon his name; Make known among the peoples his doings..."
+description: >
+  Read Psalm 105 Online | Oh give thanks unto Jehovah, call upon his name; Make known among the peoples his doings...
 weight: 105
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 5 ASV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Deuteronomy 5 Online | And Moses called unto all Israel, and said unto them, Hear, O Israel, the statutes and the ordinances which I speak in your ears this day, that ye may learn them, and observe to do them..."
+description: >
+  Read Deuteronomy 5 Online | And Moses called unto all Israel, and said unto them, Hear, O Israel, the statutes and the ordinances which I speak in your ears this day, that ye may learn them, and observe to do them...
 weight: 5
 ---
 

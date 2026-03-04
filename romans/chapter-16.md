@@ -1,7 +1,8 @@
 ---
 title: "Romans 16 ASV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Romans 16 Online | I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreæ..."
+description: >
+  Read Romans 16 Online | I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreæ...
 weight: 16
 ---
 

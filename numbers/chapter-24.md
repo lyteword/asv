@@ -1,7 +1,8 @@
 ---
 title: "Numbers 24 ASV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Numbers 24 Online | And when Balaam saw that it pleased Jehovah to bless Israel, he went not, as at the other times, to meet with enchantments, but he set his face toward the wilderness..."
+description: >
+  Read Numbers 24 Online | And when Balaam saw that it pleased Jehovah to bless Israel, he went not, as at the other times, to meet with enchantments, but he set his face toward the wilderness...
 weight: 24
 ---
 

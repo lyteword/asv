@@ -1,7 +1,8 @@
 ---
 title: "Psalm 141 ASV | Read the Bible Online"
 linkTitle: "141"
-description: "Read Psalm 141 Online | A Psalm of David. Jehovah, I have called upon thee; make haste unto me: Give ear unto my voice, when I call unto thee..."
+description: >
+  Read Psalm 141 Online | A Psalm of David. Jehovah, I have called upon thee; make haste unto me: Give ear unto my voice, when I call unto thee...
 weight: 141
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 137 ASV | Read the Bible Online"
 linkTitle: "137"
-description: "Read Psalm 137 Online | By the rivers of Babylon, There we sat down, yea, we wept, When we remembered Zion..."
+description: >
+  Read Psalm 137 Online | By the rivers of Babylon, There we sat down, yea, we wept, When we remembered Zion...
 weight: 137
 ---
 

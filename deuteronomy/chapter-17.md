@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 17 ASV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Deuteronomy 17 Online | Thou shalt not sacrifice unto Jehovah thy God an ox, or a sheep, wherein is a blemish, or anything evil; for that is an abomination unto Jehovah thy God..."
+description: >
+  Read Deuteronomy 17 Online | Thou shalt not sacrifice unto Jehovah thy God an ox, or a sheep, wherein is a blemish, or anything evil; for that is an abomination unto Jehovah thy God...
 weight: 17
 ---
 

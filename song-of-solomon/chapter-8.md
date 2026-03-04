@@ -1,7 +1,8 @@
 ---
 title: "Song Of Solomon 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Song Of Solomon 8 Online | Oh that thou wert as my brother, That sucked the breasts of my mother! When I should find thee without, I would kiss thee; Yea, and none would despise me..."
+description: >
+  Read Song Of Solomon 8 Online | Oh that thou wert as my brother, That sucked the breasts of my mother! When I should find thee without, I would kiss thee; Yea, and none would despise me...
 weight: 8
 ---
 

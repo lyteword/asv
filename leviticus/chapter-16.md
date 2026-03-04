@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 16 ASV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Leviticus 16 Online | And Jehovah spake unto Moses, after the death of the two sons of Aaron, when they drew near before Jehovah, and died..."
+description: >
+  Read Leviticus 16 Online | And Jehovah spake unto Moses, after the death of the two sons of Aaron, when they drew near before Jehovah, and died...
 weight: 16
 ---
 

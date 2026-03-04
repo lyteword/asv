@@ -1,7 +1,8 @@
 ---
 title: "Job 40 ASV | Read the Bible Online"
 linkTitle: "40"
-description: "Read Job 40 Online | Moreover Jehovah answered Job, and said..."
+description: >
+  Read Job 40 Online | Moreover Jehovah answered Job, and said...
 weight: 40
 ---
 

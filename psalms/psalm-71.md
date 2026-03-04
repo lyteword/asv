@@ -1,7 +1,8 @@
 ---
 title: "Psalm 71 ASV | Read the Bible Online"
 linkTitle: "71"
-description: "Read Psalm 71 Online | In thee, O Jehovah, do I take refuge: Let me never be put to shame..."
+description: >
+  Read Psalm 71 Online | In thee, O Jehovah, do I take refuge: Let me never be put to shame...
 weight: 71
 ---
 

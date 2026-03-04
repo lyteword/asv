@@ -1,7 +1,8 @@
 ---
 title: "Psalm 146 ASV | Read the Bible Online"
 linkTitle: "146"
-description: "Read Psalm 146 Online | Praise ye Jehovah. Praise Jehovah, O my soul..."
+description: >
+  Read Psalm 146 Online | Praise ye Jehovah. Praise Jehovah, O my soul...
 weight: 146
 ---
 

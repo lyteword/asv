@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 47 ASV | Read the Bible Online"
 linkTitle: "47"
-description: "Read Jeremiah 47 Online | The word of Jehovah that came to Jeremiah the prophet concerning the Philistines, before that Pharaoh smote Gaza..."
+description: >
+  Read Jeremiah 47 Online | The word of Jehovah that came to Jeremiah the prophet concerning the Philistines, before that Pharaoh smote Gaza...
 weight: 47
 ---
 

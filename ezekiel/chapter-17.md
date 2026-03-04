@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 17 ASV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Ezekiel 17 Online | And the word of Jehovah came unto me, saying..."
+description: >
+  Read Ezekiel 17 Online | And the word of Jehovah came unto me, saying...
 weight: 17
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 21 ASV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Leviticus 21 Online | And Jehovah said unto Moses, Speak unto the priests, the sons of Aaron, and say unto them, There shall none defile himself for the dead among his people..."
+description: >
+  Read Leviticus 21 Online | And Jehovah said unto Moses, Speak unto the priests, the sons of Aaron, and say unto them, There shall none defile himself for the dead among his people...
 weight: 21
 ---
 

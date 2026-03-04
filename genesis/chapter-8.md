@@ -1,7 +1,8 @@
 ---
 title: "Genesis 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Genesis 8 Online | And God remembered Noah, and all the beasts, and all the cattle that were with him in the ark: and God made a wind to pass over the earth, and the waters assuaged..."
+description: >
+  Read Genesis 8 Online | And God remembered Noah, and all the beasts, and all the cattle that were with him in the ark: and God made a wind to pass over the earth, and the waters assuaged...
 weight: 8
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 11 ASV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Chronicles 11 Online | And when Rehoboam was come to Jerusalem, he assembled the house of Judah and Benjamin, a hundred and fourscore thousand chosen men, that were warriors, to fight against Israel, to bring the kingdom again to Rehoboam..."
+description: >
+  Read 2 Chronicles 11 Online | And when Rehoboam was come to Jerusalem, he assembled the house of Judah and Benjamin, a hundred and fourscore thousand chosen men, that were warriors, to fight against Israel, to bring the kingdom again to Rehoboam...
 weight: 11
 ---
 

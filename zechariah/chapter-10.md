@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 10 ASV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Zechariah 10 Online | Ask ye of Jehovah rain in the time of the latter rain, even of Jehovah that maketh lightnings; and he will give them showers of rain, to every one grass in the field..."
+description: >
+  Read Zechariah 10 Online | Ask ye of Jehovah rain in the time of the latter rain, even of Jehovah that maketh lightnings; and he will give them showers of rain, to every one grass in the field...
 weight: 10
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 25 ASV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Leviticus 25 Online | And Jehovah spake unto Moses in mount Sinai, saying..."
+description: >
+  Read Leviticus 25 Online | And Jehovah spake unto Moses in mount Sinai, saying...
 weight: 25
 ---
 

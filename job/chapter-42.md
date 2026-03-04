@@ -1,7 +1,8 @@
 ---
 title: "Job 42 ASV | Read the Bible Online"
 linkTitle: "42"
-description: "Read Job 42 Online | Then Job answered Jehovah, and said..."
+description: >
+  Read Job 42 Online | Then Job answered Jehovah, and said...
 weight: 42
 ---
 

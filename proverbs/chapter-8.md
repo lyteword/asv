@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Proverbs 8 Online | Doth not wisdom cry, And understanding put forth her voice..."
+description: >
+  Read Proverbs 8 Online | Doth not wisdom cry, And understanding put forth her voice...
 weight: 8
 ---
 

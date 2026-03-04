@@ -1,7 +1,8 @@
 ---
 title: "Exodus 25 ASV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Exodus 25 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Exodus 25 Online | And Jehovah spake unto Moses, saying...
 weight: 25
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 13 ASV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Psalm 13 Online | For the Chief Musician. A Psalm of David. How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me..."
+description: >
+  Read Psalm 13 Online | For the Chief Musician. A Psalm of David. How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me...
 weight: 13
 ---
 

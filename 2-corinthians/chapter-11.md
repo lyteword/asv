@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 11 ASV | Read the Bible Online"
 linkTitle: "11"
-description: "Read 2 Corinthians 11 Online | Would that ye could bear with me in a little foolishness: but indeed ye do bear with me..."
+description: >
+  Read 2 Corinthians 11 Online | Would that ye could bear with me in a little foolishness: but indeed ye do bear with me...
 weight: 11
 ---
 

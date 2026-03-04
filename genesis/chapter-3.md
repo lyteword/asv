@@ -1,7 +1,8 @@
 ---
 title: "Genesis 3 ASV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Genesis 3 Online | Now the serpent was more subtle than any beast of the field which Jehovah God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of any tree of the garden..."
+description: >
+  Read Genesis 3 Online | Now the serpent was more subtle than any beast of the field which Jehovah God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of any tree of the garden...
 weight: 3
 ---
 

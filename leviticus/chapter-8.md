@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Leviticus 8 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Leviticus 8 Online | And Jehovah spake unto Moses, saying...
 weight: 8
 ---
 

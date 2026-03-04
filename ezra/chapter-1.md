@@ -1,7 +1,8 @@
 ---
 title: "Ezra 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ezra 1 Online | Now in the first year of Cyrus king of Persia, that the word of Jehovah by the mouth of Jeremiah might be accomplished, Jehovah stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying..."
+description: >
+  Read Ezra 1 Online | Now in the first year of Cyrus king of Persia, that the word of Jehovah by the mouth of Jeremiah might be accomplished, Jehovah stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying...
 weight: 1
 ---
 

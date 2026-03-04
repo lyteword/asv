@@ -1,7 +1,8 @@
 ---
 title: "Joshua 4 ASV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Joshua 4 Online | And it came to pass, when all the nation were clean passed over the Jordan, that Jehovah spake unto Joshua, saying..."
+description: >
+  Read Joshua 4 Online | And it came to pass, when all the nation were clean passed over the Jordan, that Jehovah spake unto Joshua, saying...
 weight: 4
 ---
 

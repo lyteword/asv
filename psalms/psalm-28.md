@@ -1,7 +1,8 @@
 ---
 title: "Psalm 28 ASV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Psalm 28 Online | A Psalm of David. Unto thee, O Jehovah, will I call: My rock, be not thou deaf unto me; Lest, if thou be silent unto me, I become like them that go down into the pit..."
+description: >
+  Read Psalm 28 Online | A Psalm of David. Unto thee, O Jehovah, will I call: My rock, be not thou deaf unto me; Lest, if thou be silent unto me, I become like them that go down into the pit...
 weight: 28
 ---
 

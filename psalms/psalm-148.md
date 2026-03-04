@@ -1,7 +1,8 @@
 ---
 title: "Psalm 148 ASV | Read the Bible Online"
 linkTitle: "148"
-description: "Read Psalm 148 Online | Praise ye Jehovah. Praise ye Jehovah from the heavens: Praise him in the heights..."
+description: >
+  Read Psalm 148 Online | Praise ye Jehovah. Praise ye Jehovah from the heavens: Praise him in the heights...
 weight: 148
 ---
 

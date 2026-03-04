@@ -1,7 +1,8 @@
 ---
 title: "Psalm 114 ASV | Read the Bible Online"
 linkTitle: "114"
-description: "Read Psalm 114 Online | When Israel went forth out of Egypt, The house of Jacob from a people of strange language..."
+description: >
+  Read Psalm 114 Online | When Israel went forth out of Egypt, The house of Jacob from a people of strange language...
 weight: 114
 ---
 

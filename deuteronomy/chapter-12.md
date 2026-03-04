@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 12 ASV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Deuteronomy 12 Online | These are the statutes and the ordinances which ye shall observe to do in the land which Jehovah, the God of thy fathers, hath given thee to possess it, all the days that ye live upon the earth..."
+description: >
+  Read Deuteronomy 12 Online | These are the statutes and the ordinances which ye shall observe to do in the land which Jehovah, the God of thy fathers, hath given thee to possess it, all the days that ye live upon the earth...
 weight: 12
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Psalm 5 ASV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Psalm 5 Online | For the Chief Musician; with the Nehiloth. A Psalm of David. Give ear to my words, O Jehovah, Consider my meditation..."
+description: >
+  Read Psalm 5 Online | For the Chief Musician; with the Nehiloth. A Psalm of David. Give ear to my words, O Jehovah, Consider my meditation...
 weight: 5
 ---
 

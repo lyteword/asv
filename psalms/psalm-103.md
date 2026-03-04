@@ -1,7 +1,8 @@
 ---
 title: "Psalm 103 ASV | Read the Bible Online"
 linkTitle: "103"
-description: "Read Psalm 103 Online | A Psalm of David. Bless Jehovah, O my soul; And all that is within me, bless his holy name..."
+description: >
+  Read Psalm 103 Online | A Psalm of David. Bless Jehovah, O my soul; And all that is within me, bless his holy name...
 weight: 103
 ---
 

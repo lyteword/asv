@@ -1,7 +1,8 @@
 ---
 title: "Micah 1 ASV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Micah 1 Online | The word of Jehovah that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem..."
+description: >
+  Read Micah 1 Online | The word of Jehovah that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem...
 weight: 1
 ---
 

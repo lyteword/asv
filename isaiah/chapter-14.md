@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 14 ASV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Isaiah 14 Online | For Jehovah will have compassion on Jacob, and will yet choose Israel, and set them in their own land: and the sojourner shall join himself with them, and they shall cleave to the house of Jacob..."
+description: >
+  Read Isaiah 14 Online | For Jehovah will have compassion on Jacob, and will yet choose Israel, and set them in their own land: and the sojourner shall join himself with them, and they shall cleave to the house of Jacob...
 weight: 14
 ---
 

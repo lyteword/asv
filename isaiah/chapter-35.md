@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 35 ASV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Isaiah 35 Online | The wilderness and the dry land shall be glad; and the desert shall rejoice, and blossom as the rose..."
+description: >
+  Read Isaiah 35 Online | The wilderness and the dry land shall be glad; and the desert shall rejoice, and blossom as the rose...
 weight: 35
 ---
 

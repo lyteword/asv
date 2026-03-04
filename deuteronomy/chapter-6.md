@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 6 ASV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Deuteronomy 6 Online | Now this is the commandment, the statutes, and the ordinances, which Jehovah your God commanded to teach you, that ye might do them in the land whither ye go over to possess it..."
+description: >
+  Read Deuteronomy 6 Online | Now this is the commandment, the statutes, and the ordinances, which Jehovah your God commanded to teach you, that ye might do them in the land whither ye go over to possess it...
 weight: 6
 ---
 

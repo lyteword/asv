@@ -1,7 +1,8 @@
 ---
 title: "Psalm 113 ASV | Read the Bible Online"
 linkTitle: "113"
-description: "Read Psalm 113 Online | Praise ye Jehovah. Praise, O ye servants of Jehovah, Praise the name of Jehovah..."
+description: >
+  Read Psalm 113 Online | Praise ye Jehovah. Praise, O ye servants of Jehovah, Praise the name of Jehovah...
 weight: 113
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 8 ASV | Read the Bible Online"
 linkTitle: "8"
-description: "Read 2 Chronicles 8 Online | And it came to pass at the end of twenty years, wherein Solomon had built the house of Jehovah, and his own house..."
+description: >
+  Read 2 Chronicles 8 Online | And it came to pass at the end of twenty years, wherein Solomon had built the house of Jehovah, and his own house...
 weight: 8
 ---
 

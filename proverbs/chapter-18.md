@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 18 ASV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Proverbs 18 Online | He that separateth himself seeketh his own desire, And rageth against all sound wisdom..."
+description: >
+  Read Proverbs 18 Online | He that separateth himself seeketh his own desire, And rageth against all sound wisdom...
 weight: 18
 ---
 

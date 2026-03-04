@@ -1,7 +1,8 @@
 ---
 title: "Psalm 135 ASV | Read the Bible Online"
 linkTitle: "135"
-description: "Read Psalm 135 Online | Praise ye Jehovah. Praise ye the name of Jehovah; Praise him, O ye servants of Jehovah..."
+description: >
+  Read Psalm 135 Online | Praise ye Jehovah. Praise ye the name of Jehovah; Praise him, O ye servants of Jehovah...
 weight: 135
 ---
 

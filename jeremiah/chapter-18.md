@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 18 ASV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Jeremiah 18 Online | The word which came to Jeremiah from Jehovah, saying..."
+description: >
+  Read Jeremiah 18 Online | The word which came to Jeremiah from Jehovah, saying...
 weight: 18
 ---
 

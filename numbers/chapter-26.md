@@ -1,7 +1,8 @@
 ---
 title: "Numbers 26 ASV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Numbers 26 Online | And it came to pass after the plague, that Jehovah spake unto Moses and unto Eleazar the son of Aaron the priest, saying..."
+description: >
+  Read Numbers 26 Online | And it came to pass after the plague, that Jehovah spake unto Moses and unto Eleazar the son of Aaron the priest, saying...
 weight: 26
 ---
 

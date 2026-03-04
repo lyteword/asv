@@ -1,7 +1,8 @@
 ---
 title: "Hosea 14 ASV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Hosea 14 Online | O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity..."
+description: >
+  Read Hosea 14 Online | O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity...
 weight: 14
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 11 ASV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Matthew 11 Online | And it came to pass when Jesus had finished commanding his twelve disciples, he departed thence to teach and preach in their cities..."
+description: >
+  Read Matthew 11 Online | And it came to pass when Jesus had finished commanding his twelve disciples, he departed thence to teach and preach in their cities...
 weight: 11
 ---
 

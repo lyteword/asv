@@ -1,7 +1,8 @@
 ---
 title: "Acts 20 ASV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Acts 20 Online | And after the uproar ceased, Paul having sent for the disciples and exhorted them, took leave of them, and departed to go into Macedonia..."
+description: >
+  Read Acts 20 Online | And after the uproar ceased, Paul having sent for the disciples and exhorted them, took leave of them, and departed to go into Macedonia...
 weight: 20
 ---
 

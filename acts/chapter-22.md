@@ -1,7 +1,8 @@
 ---
 title: "Acts 22 ASV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Acts 22 Online | Brethren and fathers, hear ye the defence which I now make unto you..."
+description: >
+  Read Acts 22 Online | Brethren and fathers, hear ye the defence which I now make unto you...
 weight: 22
 ---
 

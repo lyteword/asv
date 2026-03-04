@@ -1,7 +1,8 @@
 ---
 title: "Judges 11 ASV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Judges 11 Online | Now Jephthah the Gileadite was a mighty man of valor, and he was the son of a harlot: and Gilead begat Jephthah..."
+description: >
+  Read Judges 11 Online | Now Jephthah the Gileadite was a mighty man of valor, and he was the son of a harlot: and Gilead begat Jephthah...
 weight: 11
 ---
 

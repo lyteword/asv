@@ -1,7 +1,8 @@
 ---
 title: "Psalm 98 ASV | Read the Bible Online"
 linkTitle: "98"
-description: "Read Psalm 98 Online | A Psalm. Oh sing unto Jehovah a new song; For he hath done marvellous things: His right hand, and his holy arm, hath wrought salvation for him..."
+description: >
+  Read Psalm 98 Online | A Psalm. Oh sing unto Jehovah a new song; For he hath done marvellous things: His right hand, and his holy arm, hath wrought salvation for him...
 weight: 98
 ---
 

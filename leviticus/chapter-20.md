@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 20 ASV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Leviticus 20 Online | And Jehovah spake unto Moses, saying..."
+description: >
+  Read Leviticus 20 Online | And Jehovah spake unto Moses, saying...
 weight: 20
 ---
 
