@@ -1,11 +1,20 @@
 ---
-title: American Standard Version
-linkTitle: ASV
+title: "American Standard Version (ASV) | Read the Bible Online"
+linkTitle: "ASV"
+description: >
+  A literal early-20th-century revision of the King James tradition emphasizing close adherence to the Hebrew and Greek texts.
 sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# American Standard Version
+
+The 1901 American Standard Version (ASV) of the Bible is a translation that sought to improve upon the King James Version (KJV) by providing a more accurate rendering of the original Hebrew and Greek manuscripts. A literal early-20th-century revision of the King James tradition, the ASV focused on textual precision, modernizing archaic language and grammar while maintaining the traditional framework of the KJV. It was the product of over a decade of work by a committee of scholars and translators, who aimed to provide a more reliable translation for English-speaking Christians.
+
+The ASV was notable for its use of formal equivalence, or a word-for-word translation approach. The translators made efforts to ensure that the language closely reflected the meaning of the original manuscripts, even when it led to more difficult phrasing in English. Although it did not achieve popularity among general readers compared to the KJV, the ASV has had a lasting influence on later translations, serving as the basis for versions such as the Revised Standard Version (RSV) and the New American Standard Bible (NASB). Its impact remains significant in both scholarly circles and among those who value a more literal approach to Bible translation.
 
 ## The Old Testament
 
