@@ -1,7 +1,13 @@
 ---
-title: Ephesians
+title: "Ephesians ASV | Read the Bible Online"
+linkTitle: "Ephesians"
 weight: 49
+description: >
+  Read Ephesians from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Ephesians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

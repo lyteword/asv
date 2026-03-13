@@ -1,5 +1,5 @@
 ---
-title: "American Standard Version (ASV) | Read the Bible Online"
+title: "American Standard Version (ASV) | Read the Bible Online ASV | Read the Bible Online"
 linkTitle: "ASV"
 description: >
   A literal early-20th-century revision of the King James tradition emphasizing close adherence to the Hebrew and Greek texts.

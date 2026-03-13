@@ -1,7 +1,13 @@
 ---
-title: Haggai
+title: "Haggai ASV | Read the Bible Online"
+linkTitle: "Haggai"
 weight: 37
+description: >
+  Read Haggai from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Haggai
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

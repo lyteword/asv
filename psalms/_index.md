@@ -1,7 +1,13 @@
 ---
-title: Psalms
+title: "Psalms ASV | Read the Bible Online"
+linkTitle: "Psalms"
 weight: 19
+description: >
+  Read Psalms from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Psalms
 
 {{< cards >}}
 {{< card link="./psalm-1" title="Psalm 1" icon="book-open" >}}

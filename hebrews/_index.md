@@ -1,7 +1,13 @@
 ---
-title: Hebrews
+title: "Hebrews ASV | Read the Bible Online"
+linkTitle: "Hebrews"
 weight: 58
+description: >
+  Read Hebrews from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Hebrews
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
