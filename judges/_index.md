@@ -1,7 +1,13 @@
 ---
-title: Judges
+title: "Judges ASV | Read the Bible Online"
+linkTitle: "Judges"
 weight: 7
+description: >
+  Read Judges from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Judges
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: Genesis
+title: "Genesis ASV | Read the Bible Online"
+linkTitle: "Genesis"
 weight: 1
+description: >
+  Read Genesis from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Genesis
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

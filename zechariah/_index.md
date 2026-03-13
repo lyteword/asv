@@ -1,7 +1,13 @@
 ---
-title: Zechariah
+title: "Zechariah ASV | Read the Bible Online"
+linkTitle: "Zechariah"
 weight: 38
+description: >
+  Read Zechariah from the American Standard Version (ASV) Online
+layout: single-section
 ---
+
+# Zechariah
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
